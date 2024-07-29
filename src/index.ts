@@ -1,17 +1,12 @@
-// src/index.ts
-import fastify from "fastify";
-import mercurius from "mercurius";
-import { schema } from "./schema";
+import fastify from 'fastify';
+import dotenv from 'dotenv';
+// 환경 변수 로드
+dotenv.config();
 
 const server = fastify({ logger: true });
 
-server.register(mercurius, {
-  schema,
-  graphiql: true, // GraphiQL 인터페이스를 활성화합니다.
-});
-
-server.get("/", async (request, reply) => {
-  return { status: true, data: { message: "done" } };
+server.get('/health', async (_, reply) => {
+  reply.status(200).send({ status: true, data: { message: 'done' } });
 });
 
 const start = async () => {
