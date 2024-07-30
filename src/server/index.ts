@@ -5,6 +5,7 @@ import healthRoutes from '../routes/health';
 import apiV1Routes from '../routes/api/v1';
 import fastifyJwt from '@fastify/jwt';
 import { authPlugin, errorPlugin } from '../plugins';
+import responsePlugin from '../plugins/responsePlugin';
 
 export function checkEnvironment(): { result: boolean; message?: string } {
   try {
@@ -36,6 +37,7 @@ export function initServer(server: FastifyInstance) {
   });
 
   server.register(authPlugin);
+  server.register(responsePlugin);
   server.register(errorPlugin);
 
   server.register(healthRoutes, { prefix: 'health' });
