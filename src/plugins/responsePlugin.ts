@@ -3,6 +3,11 @@ import { FastifyPluginAsync } from 'fastify';
 
 const responsePlugin: FastifyPluginAsync = async (fastify, _) => {
   fastify.addHook('onSend', async (_, reply, payload) => {
+    if (reply.statusCode >= 400) {
+      // 헤더가 이미 전송된 경우는 `onSend` 훅이 처리하지 않도록 합니다.
+      return payload;
+    }
+
     try {
       const json = JSON.parse(payload as string);
       const wrappedPayload = {
