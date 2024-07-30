@@ -1,6 +1,12 @@
 node_modules
 yarn.lock
 
+.idea
+
 .env
 
 prisma/migrations
+
+.config/.env.dev
+.config/.env.staging
+.config/.env.prod

@@ -1,7 +1,17 @@
+import fastify from 'fastify';
 import dotenv from 'dotenv';
-import { healthRoutes } from './routes/health';
-import { startServer } from './server';
+import { checkEnvironment, initServer, startServer } from './server';
 // 환경 변수 로드
 dotenv.config();
 
-startServer();
+const server = fastify({ logger: true });
+
+const environmentCheck = checkEnvironment();
+
+if (environmentCheck?.result === true) {
+  initServer(server);
+  startServer(server);
+} else {
+  console.error(environmentCheck.message);
+  process.exit(1);
+}

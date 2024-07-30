@@ -1,7 +1,8 @@
-import fastify from 'fastify';
+import { FastifyInstance } from 'fastify';
 import fs from 'fs';
+import { healthRoutes } from "../routes/health";
 
-export function checkEnviroment(): { result: boolean; message?: string } {
+export function checkEnvironment(): { result: boolean; message?: string } {
   try {
     const envFileExist = fs.existsSync('.env');
 
@@ -19,9 +20,13 @@ export function checkEnviroment(): { result: boolean; message?: string } {
   }
 }
 
-export async function startServer(app: typeof fastify) {
+export function initServer(server: FastifyInstance) {
+  server.register(healthRoutes, { prefix: 'health' });
+}
+
+export async function startServer(server: FastifyInstance) {
   try {
-    await app({ logger: true }).listen({ port: 3000 });
+    await server.listen({ port: 3000 });
     console.log(`Server is running at http://localhost:3000`);
   } catch (err) {
     console.error(err);
