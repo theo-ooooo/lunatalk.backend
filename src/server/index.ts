@@ -28,8 +28,8 @@ export function initServer(server: FastifyInstance) {
 
 export async function startServer(server: FastifyInstance) {
   try {
-    await server.listen({ port: 3000 });
-    console.log(`Server is running at http://localhost:3000`);
+    const address = await server.listen({ port: 4000 });
+    console.log(`Server is running at ${address}`);
   } catch (err) {
     console.error(err);
     process.exit(1);
