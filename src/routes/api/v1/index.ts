@@ -1,8 +1,6 @@
-import { FastifyInstance, FastifyPluginOptions } from 'fastify';
+import { FastifyInstance } from 'fastify';
 import authRoutes from './auth';
 
-export async function apiV1Plugin(fastify: FastifyInstance) {
-  fastify.register((instance) => {
-    instance.register(authRoutes, { prefix: 'auth' });
-  });
+export default async function apiV1Routes(fastify: FastifyInstance) {
+  fastify.register(authRoutes, { prefix: 'auth' });
 }

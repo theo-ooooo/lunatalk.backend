@@ -1,6 +1,6 @@
 import { FastifyInstance, FastifyPluginOptions } from 'fastify';
 
-export async function healthRoutes(
+export default async function healthRoutes(
   fastify: FastifyInstance,
   options: FastifyPluginOptions
 ) {

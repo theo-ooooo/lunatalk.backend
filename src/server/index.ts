@@ -1,6 +1,7 @@
 import { FastifyInstance } from 'fastify';
 import fs from 'fs';
-import { healthRoutes } from "../routes/health";
+import healthRoutes from '../routes/health';
+import apiV1Routes from '../routes/api/v1';
 
 export function checkEnvironment(): { result: boolean; message?: string } {
   try {
@@ -22,6 +23,7 @@ export function checkEnvironment(): { result: boolean; message?: string } {
 
 export function initServer(server: FastifyInstance) {
   server.register(healthRoutes, { prefix: 'health' });
+  server.register(apiV1Routes, { prefix: 'api/v1' });
 }
 
 export async function startServer(server: FastifyInstance) {
