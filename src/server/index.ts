@@ -1,8 +1,10 @@
 import { FastifyInstance } from 'fastify';
+import cookie from '@fastify/cookie';
 import fs from 'fs';
 import healthRoutes from '../routes/health';
 import apiV1Routes from '../routes/api/v1';
-import errorPlugin from '../plugins/error';
+import fastifyJwt from '@fastify/jwt';
+import { authPlugin, errorPlugin } from '../plugins';
 
 export function checkEnvironment(): { result: boolean; message?: string } {
   try {
@@ -23,6 +25,17 @@ export function checkEnvironment(): { result: boolean; message?: string } {
 }
 
 export function initServer(server: FastifyInstance) {
+  server.register(cookie, { secret: process.env.COOKIE_SECRET_KEY });
+  server.register(fastifyJwt, {
+    secret: process.env.JWT_SECRET_KEY as string,
+    cookie: {
+      cookieName: 'access_token',
+      signed: false,
+    },
+    sign: { expiresIn: '1d' },
+  });
+
+  server.register(authPlugin);
   server.register(errorPlugin);
 
   server.register(healthRoutes, { prefix: 'health' });
