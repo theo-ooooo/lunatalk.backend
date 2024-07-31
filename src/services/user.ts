@@ -4,9 +4,23 @@ import { CreateUser } from '../inerfaces/user';
 import { UnauthorizedError } from '../tools/errors/unauthorizedError';
 import bcrypt from 'bcrypt';
 import { User } from '@prisma/client';
-import { CreateUserBody } from '../routes/api/v1/auth/schema';
+import { CreateUserBody, SignInUserBody } from '../routes/api/v1/auth/schema';
 import { gerateUserToken } from '../tools/jwt';
 import { setCookie } from '../tools/cookie';
+
+function signInProcess(
+  fastify: FastifyInstance,
+  reply: FastifyReply,
+  user: User
+) {
+  const tokens = gerateUserToken(fastify, user);
+
+  setCookie(reply, 'accessToken', tokens.accessToken, { maxAge: 3600 * 24 });
+  setCookie(reply, 'refreshToken', tokens.refreshToken, {
+    maxAge: 3600 * 24 * 30,
+  });
+  return tokens;
+}
 
 export async function signUp(
   fastify: FastifyInstance,
@@ -30,14 +44,39 @@ export async function signUp(
 
     const user = await setUser(task);
 
-    const tokens = gerateUserToken(fastify, user);
+    const tokens = signInProcess(fastify, reply, user);
 
-    setCookie(reply, 'accessToken', tokens.accessToken, { maxAge: 3600 * 24 });
-    setCookie(reply, 'refreshToken', tokens.refreshToken, {
-      maxAge: 3600 * 24 * 30,
-    });
+    return { tokens };
+  } catch (e) {
+    throw e;
+  }
+}
 
-    return { user: { ...user, password: undefined }, tokens };
+export async function signIn(
+  fastify: FastifyInstance,
+  request: FastifyRequest<{ Body: SignInUserBody }>,
+  reply: FastifyReply
+) {
+  try {
+    const { loginId, password } = request.body;
+
+    const signInUser = await existsByLoginId(loginId);
+
+    if (!signInUser) {
+      throw new UnauthorizedError('user not found');
+    }
+
+    const { password: hashedPassword } = signInUser;
+
+    const isMatch = bcrypt.compareSync(password, hashedPassword);
+
+    if (!isMatch) {
+      throw new UnauthorizedError('password mismatch');
+    }
+
+    const tokens = signInProcess(fastify, reply, signInUser);
+
+    return { tokens };
   } catch (e) {
     throw e;
   }

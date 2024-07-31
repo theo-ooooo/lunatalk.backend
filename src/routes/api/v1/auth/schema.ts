@@ -21,3 +21,19 @@ export const createUserBodySchema = asConst({
 });
 
 export type CreateUserBody = FromSchema<typeof createUserBodySchema>;
+
+export const signInUserBodySchema = asConst({
+  type: 'object',
+  required: ['loginId', 'password'],
+  properties: {
+    loginId: {
+      type: 'string',
+    },
+    password: {
+      type: 'string',
+    },
+  },
+  additionalProperties: false,
+});
+
+export type SignInUserBody = FromSchema<typeof signInUserBodySchema>;

@@ -4,15 +4,15 @@ import {
   FastifyReply,
   FastifyRequest,
 } from 'fastify';
-import { UnauthorizedError } from '../../../../tools/errors/unauthorizedError';
-import { signUp } from '../../../../services/user';
-import { CreateUser } from '../../../../inerfaces/user';
-import { CreateUserBody, createUserBodySchema } from './schema';
+import { signIn, signUp } from '../../../../services/user';
+import {
+  CreateUserBody,
+  createUserBodySchema,
+  SignInUserBody,
+  signInUserBodySchema,
+} from './schema';
 
-export default async function authRoutes(
-  fastify: FastifyInstance,
-  options: FastifyPluginOptions
-) {
+export default async function authRoutes(fastify: FastifyInstance) {
   fastify.post<{ Body: CreateUserBody }>(
     '/sign_up',
     { schema: { body: createUserBodySchema } },
@@ -24,7 +24,15 @@ export default async function authRoutes(
       }
     }
   );
-  // fastify.post('/sign_up', (_, reply) => {
-  //   reply.send({ result: true });
-  // });
+  fastify.post<{ Body: SignInUserBody }>(
+    '/sign_in',
+    { schema: { body: signInUserBodySchema } },
+    async (request, reply) => {
+      try {
+        return await signIn(fastify, request, reply);
+      } catch (e) {
+        throw e;
+      }
+    }
+  );
 }
