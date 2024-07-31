@@ -11,6 +11,7 @@ import {
 import { gerateUserToken } from '../../tools/jwt';
 import { setCookie } from '../../tools/cookie';
 import { Time } from '../../tools/constants/time';
+import { NotFoundError } from '../../tools/errors/notFoundError';
 
 function signInProcess(
   fastify: FastifyInstance,
@@ -69,7 +70,7 @@ export async function signIn(
     const signInUser = await existsByLoginId(loginId);
 
     if (!signInUser) {
-      throw new UnauthorizedError('user not found');
+      throw new NotFoundError('user not found');
     }
 
     const { password: hashedPassword } = signInUser;
