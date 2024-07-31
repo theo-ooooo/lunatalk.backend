@@ -8,6 +8,11 @@ datasource db {
   shadowDatabaseUrl = env("SHADOW_DATABASE_URL")
 }
 
+enum Active {
+  Y
+  N
+}
+
 model User {
   id        Int       @id @default(autoincrement())
   loginId   String    @unique
@@ -19,3 +24,83 @@ model User {
 
   @@map("users")
 }
+
+model Product {
+  id       Int      @id @default(autoincrement())
+  productGroupId Int?
+  productGroups ProductGroups? @relation(fields: [productGroupId], references: [id], onDelete: Cascade)
+  name     String?
+  originalPrice Int @default(0)
+  price    Int      @default(0)
+  quantity Int      @default(0)
+  active   Active   @default(N)
+  createdAt DateTime  @default(now()) @db.Timestamp(0)
+  updatedAt DateTime? @db.Timestamp(0)
+  productthumbnailImages ProductThumbnailImages[]
+  productDetailImages ProductDetailImages[]
+
+  @@map("products")
+}
+
+model ProductGroups {
+  id Int @id @default(autoincrement())
+  name     String
+  active   Active   @default(N)
+  product Product[]
+  createdAt DateTime  @default(now()) @db.Timestamp(0)
+  updatedAt DateTime? @db.Timestamp(0)
+  categories CategoryProductGroups[]
+  @@map("productGroups")
+}
+
+model ProductThumbnailImages {
+  id   Int    @id @default(autoincrement())
+  uuid String @unique @default(uuid())
+  productId Int
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  original String @db.Text
+  webp     String @db.Text
+  jpeg     String @db.Text
+  originalBucket   String
+  webpBucket   String
+  jpegBucket   String
+  createdAt DateTime  @default(now()) @db.Timestamp(0)
+  @@map("productThumbnailImages")
+}
+
+model ProductDetailImages {
+  id   Int    @id @default(autoincrement())
+  uuid String @unique @default(uuid())
+  productId Int
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+  original String @db.Text
+  webp     String @db.Text
+  jpeg     String @db.Text
+  originalBucket   String
+  webpBucket   String
+  jpegBucket   String
+createdAt DateTime  @default(now()) @db.Timestamp(0)
+  @@map("productDetailImages")
+}
+
+model Categories {
+  id Int @id @default(autoincrement())
+  name String @unique
+  active Active @default(N)
+  createdAt DateTime  @default(now()) @db.Timestamp(0)
+  updatedAt DateTime? @db.Timestamp(0)
+  productGroups CategoryProductGroups[]
+  @@map("categories")
+}
+
+model CategoryProductGroups {
+  category Categories @relation(fields: [categoryId], references: [id])
+  productGroup ProductGroups @relation(fields: [productGroupId], references: [id])
+  categoryId Int
+  productGroupId Int
+  createdAt DateTime  @default(now()) @db.Timestamp(0)
+  @@id([categoryId, productGroupId])
+
+  @@map("categoryProductGroups")
+}
+
