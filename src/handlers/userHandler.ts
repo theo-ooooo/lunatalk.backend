@@ -11,9 +11,19 @@ export async function setUser(
   }
 }
 
-export async function existsByLoginId(loginId: string) {
+export async function existsByLoginId(loginId: string): Promise<User | null> {
   try {
-    return await prismaClient.user.findUnique({ where: { loginId } });
+    return await prismaClient.user.findUnique({
+      where: { loginId },
+    });
+  } catch (e) {
+    throw e;
+  }
+}
+
+export async function findById(userId: number): Promise<User | null> {
+  try {
+    return await prismaClient.user.findUnique({ where: { id: userId } });
   } catch (e) {
     throw e;
   }

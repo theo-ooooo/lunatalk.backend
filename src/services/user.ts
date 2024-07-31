@@ -7,6 +7,7 @@ import { User } from '@prisma/client';
 import { CreateUserBody, SignInUserBody } from '../routes/api/v1/auth/schema';
 import { gerateUserToken } from '../tools/jwt';
 import { setCookie } from '../tools/cookie';
+import { Time } from '../tools/constants/time';
 
 function signInProcess(
   fastify: FastifyInstance,
@@ -15,9 +16,11 @@ function signInProcess(
 ) {
   const tokens = gerateUserToken(fastify, user);
 
-  setCookie(reply, 'accessToken', tokens.accessToken, { maxAge: 3600 * 24 });
+  setCookie(reply, 'accessToken', tokens.accessToken, {
+    maxAge: Time.ONE_DAY_S,
+  });
   setCookie(reply, 'refreshToken', tokens.refreshToken, {
-    maxAge: 3600 * 24 * 30,
+    maxAge: Time.ONE_DAY_S * 30,
   });
   return tokens;
 }
