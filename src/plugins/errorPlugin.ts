@@ -5,6 +5,7 @@ import { isHttpError } from '../tools/errors/httpError';
 
 const errorPlugin: FastifyPluginCallback = (fastify, _, done) => {
   fastify.setErrorHandler((error, request, reply) => {
+    console.log(error);
     if (isHttpError(error)) {
       reply.status(error.statusCode).send({
         result: false,
@@ -15,12 +16,14 @@ const errorPlugin: FastifyPluginCallback = (fastify, _, done) => {
         },
       });
     } else {
-      reply.status(500).send({
+      const statusCode = error.statusCode || 500;
+      reply.status(statusCode).send({
         result: false,
-        data: {
+        error: {
+          code: error.code || 'INTERNAL_SERVER_ERROR',
           message: error.message || 'Internal Server Error',
           name: error.name || 'Error',
-          statusCode: 500,
+          statusCode,
         },
       });
     }
