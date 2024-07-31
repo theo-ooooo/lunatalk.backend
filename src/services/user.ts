@@ -4,9 +4,10 @@ import { CreateUser } from '../inerfaces/user';
 import { UnauthorizedError } from '../tools/errors/unauthorizedError';
 import bcrypt from 'bcrypt';
 import { User } from '@prisma/client';
+import { CreateUserBody } from '../routes/api/v1/auth/schema';
 
 export async function signUp(
-  request: FastifyRequest<{ Body: CreateUser }>,
+  request: FastifyRequest<{ Body: CreateUserBody }>,
   reply: FastifyReply
 ) {
   try {
@@ -19,8 +20,8 @@ export async function signUp(
 
     const task: Omit<User, 'id' | 'createdAt' | 'updatedAt'> = {
       loginId,
-      nickname,
-      email,
+      nickname: nickname || null,
+      email: email || null,
       password: bcrypt.hashSync(password, 10),
     };
 
