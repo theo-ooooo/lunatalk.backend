@@ -17,7 +17,11 @@ export default async function authRoutes(
     '/sign_up',
     { schema: { body: createUserBodySchema } },
     async (request, reply) => {
-      return await signUp(request, reply);
+      try {
+        return await signUp(fastify, request, reply);
+      } catch (e) {
+        throw e;
+      }
     }
   );
   // fastify.post('/sign_up', (_, reply) => {

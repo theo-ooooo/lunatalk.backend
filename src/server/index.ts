@@ -30,7 +30,7 @@ export function initServer(server: FastifyInstance) {
   server.register(fastifyJwt, {
     secret: process.env.JWT_SECRET_KEY as string,
     cookie: {
-      cookieName: 'access_token',
+      cookieName: 'accessToken',
       signed: false,
     },
     sign: { expiresIn: '1d' },

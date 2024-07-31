@@ -16,6 +16,7 @@ const authPlugin: FastifyPluginAsync = async (fastify) => {
     }
     try {
       await request.jwtVerify();
+      console.log(request.user);
     } catch (e) {
       throw new UnauthorizedError(`access token invalid`);
     }

@@ -2,7 +2,7 @@ import { asConst, FromSchema } from 'json-schema-to-ts';
 
 export const createUserBodySchema = asConst({
   type: 'object',
-  required: ['loginId', 'password'],
+  required: ['loginId', 'password', 'email'],
   properties: {
     loginId: {
       type: 'string',
