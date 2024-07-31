@@ -4,13 +4,14 @@ import {
   FastifyReply,
   FastifyRequest,
 } from 'fastify';
-import { signIn, signUp } from '../../../../services/user';
+import { signIn, signUp } from '../../../../services/userService';
 import {
   CreateUserBody,
   createUserBodySchema,
   SignInUserBody,
   signInUserBodySchema,
 } from './schema';
+import { logout } from '../../../../services/authService';
 
 export default async function authRoutes(fastify: FastifyInstance) {
   fastify.post<{ Body: CreateUserBody }>(
@@ -35,4 +36,8 @@ export default async function authRoutes(fastify: FastifyInstance) {
       }
     }
   );
+
+  fastify.post('/logout', (_, reply) => {
+    return logout(reply);
+  });
 }

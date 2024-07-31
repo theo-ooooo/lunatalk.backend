@@ -1,13 +1,16 @@
 import { FastifyInstance, FastifyReply, FastifyRequest } from 'fastify';
-import { existsByLoginId, setUser } from '../handlers/userHandler';
-import { CreateUser } from '../inerfaces/user';
-import { UnauthorizedError } from '../tools/errors/unauthorizedError';
+import { existsByLoginId, setUser } from '../../handlers/userHandler';
+import { CreateUser } from '../../inerfaces/user';
+import { UnauthorizedError } from '../../tools/errors/unauthorizedError';
 import bcrypt from 'bcrypt';
 import { User } from '@prisma/client';
-import { CreateUserBody, SignInUserBody } from '../routes/api/v1/auth/schema';
-import { gerateUserToken } from '../tools/jwt';
-import { setCookie } from '../tools/cookie';
-import { Time } from '../tools/constants/time';
+import {
+  CreateUserBody,
+  SignInUserBody,
+} from '../../routes/api/v1/auth/schema';
+import { gerateUserToken } from '../../tools/jwt';
+import { setCookie } from '../../tools/cookie';
+import { Time } from '../../tools/constants/time';
 
 function signInProcess(
   fastify: FastifyInstance,
