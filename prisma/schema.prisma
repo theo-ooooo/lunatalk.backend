@@ -27,8 +27,6 @@ model User {
 
 model Product {
   id       Int      @id @default(autoincrement())
-  productGroupId Int?
-  productGroups ProductGroups? @relation(fields: [productGroupId], references: [id], onDelete: Cascade)
   name     String?
   originalPrice Int @default(0)
   price    Int      @default(0)
@@ -38,20 +36,11 @@ model Product {
   updatedAt DateTime? @db.Timestamp(0)
   productthumbnailImages ProductThumbnailImages[]
   productDetailImages ProductDetailImages[]
-
+  categoryProducts CategoryProduct[]
+  productColorOptions ProductColorOption[]
   @@map("products")
 }
 
-model ProductGroups {
-  id Int @id @default(autoincrement())
-  name     String
-  active   Active   @default(N)
-  product Product[]
-  createdAt DateTime  @default(now()) @db.Timestamp(0)
-  updatedAt DateTime? @db.Timestamp(0)
-  categories CategoryProductGroups[]
-  @@map("productGroups")
-}
 
 model ProductThumbnailImages {
   id   Int    @id @default(autoincrement())
@@ -83,24 +72,44 @@ createdAt DateTime  @default(now()) @db.Timestamp(0)
   @@map("productDetailImages")
 }
 
-model Categories {
+model Category {
   id Int @id @default(autoincrement())
   name String @unique
   active Active @default(N)
   createdAt DateTime  @default(now()) @db.Timestamp(0)
   updatedAt DateTime? @db.Timestamp(0)
-  productGroups CategoryProductGroups[]
+  categoryProducts CategoryProduct[]
   @@map("categories")
 }
 
-model CategoryProductGroups {
-  category Categories @relation(fields: [categoryId], references: [id])
-  productGroup ProductGroups @relation(fields: [productGroupId], references: [id])
+model CategoryProduct {
+  category Category @relation(fields: [categoryId], references: [id],onDelete: Cascade)
+  product Product @relation(fields: [productId], references: [id], onDelete: Cascade)
   categoryId Int
-  productGroupId Int
+  productId Int
   createdAt DateTime  @default(now()) @db.Timestamp(0)
-  @@id([categoryId, productGroupId])
+  @@id([categoryId, productId])
 
-  @@map("categoryProductGroups")
+  @@map("categoryProducts")
+}
+
+model ColorOption {
+  id Int @id @default(autoincrement())
+  name String @unique
+  active Active @default(N)
+  createdAt DateTime  @default(now()) @db.Timestamp(0)
+  updatedAt DateTime? @db.Timestamp(0)
+  productColorOptions ProductColorOption[]
+  @@map("colorOptions")
+}
+
+model ProductColorOption {
+  product Product @relation(fields: [productId], references: [id])
+  colorOption ColorOption @relation(fields: [colorOptionId], references: [id], onDelete: Cascade)
+  productId Int
+  colorOptionId Int
+  createdAt DateTime  @default(now()) @db.Timestamp(0)
+   @@id([productId, colorOptionId])
+  @@map("productColorOptions")
 }
 
