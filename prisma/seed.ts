@@ -125,8 +125,6 @@ async function productImagesInit() {
 
       const file = Buffer.from(response.data, 'binary');
 
-      console.log(response.data);
-
       await productImageUpload(
         o.productId,
         o.mediaCategory === 'rep' ? 'thumbnail' : 'detail',
@@ -138,6 +136,31 @@ async function productImagesInit() {
       console.log('fail', o.productId, o.path);
     }
   });
+
+  for (let o of images) {
+    new Promise(async (resolve) => {
+      try {
+        const response = await axios.get(
+          `https://media.lunatalk.co.kr${o.path}`,
+          {
+            responseType: 'arraybuffer',
+          }
+        );
+
+        const file = Buffer.from(response.data, 'binary');
+
+        await productImageUpload(
+          o.productId,
+          o.mediaCategory === 'rep' ? 'thumbnail' : 'detail',
+          file
+        );
+        console.log('success', o.productId, o.path);
+        resolve(null);
+      } catch (e) {
+        resolve(null);
+      }
+    });
+  }
 }
 
 async function main() {
