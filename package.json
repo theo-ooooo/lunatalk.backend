@@ -13,15 +13,22 @@
     "format": "prettier --write 'src/**/*.{js,ts,json,md}'"
   },
   "dependencies": {
+    "@aws-sdk/client-s3": "^3.629.0",
+    "@aws-sdk/credential-providers": "^3.630.0",
     "@fastify/cookie": "^9.3.1",
     "@fastify/jwt": "^8.0.1",
     "@prisma/client": "^5.17.0",
+    "@types/uuid": "^10.0.0",
+    "axios": "^1.7.4",
     "bcrypt": "^5.1.1",
     "dotenv": "^16.4.5",
     "fastify": "^4.27.0",
     "fastify-plugin": "^4.5.1",
     "fs": "^0.0.1-security",
-    "json-schema-to-ts": "^3.1.0"
+    "json-schema-to-ts": "^3.1.0",
+    "os": "^0.1.2",
+    "sharp": "^0.33.4",
+    "uuid": "^10.0.0"
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.2",

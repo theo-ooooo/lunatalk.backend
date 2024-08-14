@@ -242,5 +242,3493 @@
     "INSERT INTO productColorOptions(productId, colorOptionId) VALUES (116, 57);",
     "INSERT INTO productColorOptions(productId, colorOptionId) VALUES (116, 57);",
     "INSERT INTO productColorOptions(productId, colorOptionId) VALUES (116, 57);"
+  ],
+
+  "images": [
+    {
+      "productId": 1,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/lThIT0rDspjSBZvjKMgjDUBKXECsQFO8b8gaoZs2.jpg"
+    },
+    {
+      "productId": 1,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/pbPVL3dk1dwxSqDfQdJjBLrjcq6eTPlRKnZhjsQd.jpg"
+    },
+    {
+      "productId": 1,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/u9r1kvVUMxXvAUOPZvxyGWDuQ1jXrPTbItLkFxH8.jpg"
+    },
+    {
+      "productId": 1,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hBzLUznsTiqCwiNSADJUKaGd7jjQQ7l1nvBZIacZ.jpg"
+    },
+    {
+      "productId": 1,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ZJYs3Tnyg4qYoABD92A4NDEi3Br17MQcpC4M8qal.jpg"
+    },
+    {
+      "productId": 1,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/3fBaiVIavrl1TkTI2AlZQrj3IvtAhQHA2eB6aPpa.jpg"
+    },
+    {
+      "productId": 1,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KJR50uud0EscGGuA8OWMFuc96oiwYxLOauyh9foO.jpg"
+    },
+    {
+      "productId": 2,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/pbLQTJVaSQnOBos0OKJzXbj4doxYrswF8lJ8fjE6.jpg"
+    },
+    {
+      "productId": 2,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Ivwmk81PJCgeSjPITkJwYyiCWDPoYeqX12SceUNm.jpg"
+    },
+    {
+      "productId": 2,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/TAxSNEhzjr1ipDabbGTshQPD7YnivOzSXN2tIIOg.jpg"
+    },
+    {
+      "productId": 2,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sthv6bB4YbM72C0IkZpGc6jEqaD426Ipc2tWdBau.jpg"
+    },
+    {
+      "productId": 2,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Cye74fQRNFNdWn81KLMpWx1uP0Pe439IzXbuUQZn.jpg"
+    },
+    {
+      "productId": 2,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ve2j4aHKHxqjCvyTnL5buO0kTmrqTwuNN55gIK4Y.jpg"
+    },
+    {
+      "productId": 2,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wPSHDvkJIWxBREZd2kYKT5kDYHr05N3kUOv2kaxy.jpg"
+    },
+    {
+      "productId": 3,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AmoNQGh7Rr20gb4gT1Fowgkbn164mcYHe3iONJRn.jpg"
+    },
+    {
+      "productId": 3,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/asqnvuzTx19uCoDxLizfZ1diDz2XR6UGoBGecSSH.jpg"
+    },
+    {
+      "productId": 3,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/q7jB8hIQ9XkWbncSIafZjfGWB37jWFvefj7Olpzu.jpg"
+    },
+    {
+      "productId": 3,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Ul51QnmgbzMLnwyuDrMyFqrA5bcXJS7rhZjW9SO8.jpg"
+    },
+    {
+      "productId": 3,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UWvkmSmzJ7LQTKR5yPYHOAPlFg9NOuppoq8I6rdB.jpg"
+    },
+    {
+      "productId": 3,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/mf4yP85rouFVdvPEjOFgoV4Fsakuz6wL81VnkDJ6.jpg"
+    },
+    {
+      "productId": 3,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LIng8y5gnvAb6KtFZFD3lbO1lBzUXHBq28KlxzN3.jpg"
+    },
+    {
+      "productId": 4,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/epzbhalWTdnTPY7R2JOSof6M7PMz0T3MFgCgQXUI.jpg"
+    },
+    {
+      "productId": 4,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LB67yXh4CqCVajFZ0ww4tIhJdFgAZYhlZglJeAF1.jpg"
+    },
+    {
+      "productId": 4,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Ve5S1PnJpiwfSt1zGKuzsnDDopK5ZFjcaDV7HYyD.jpg"
+    },
+    {
+      "productId": 4,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/TFYqlG3tE3C5VjQvJAzupJaVsEfyr5OWLsrkg6H1.jpg"
+    },
+    {
+      "productId": 4,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/SsOB7d7YfC4EmqbJhFeu1evuzzDYFTCABGbB31NJ.jpg"
+    },
+    {
+      "productId": 4,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qdRqE1i2n3HpyOLVPw31xl3sa0ex43SYD6QiZOuf.jpg"
+    },
+    {
+      "productId": 4,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dLYMF8G7vPjlpRFs8XsfsNCb7gwbGtrIOFrmsywu.jpg"
+    },
+    {
+      "productId": 5,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rknAeYk6ndOZU8MuyQMUg8n87zgcpVKi0gBXE4yX.jpg"
+    },
+    {
+      "productId": 5,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OSCDMrapsfUzPlgxZZ2wR4P5NCsGqBvxMjyYxFR9.jpg"
+    },
+    {
+      "productId": 5,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/BnGGAKlv108RiDUkimP1tJ12yDRsfH0ZxHctXc8b.jpg"
+    },
+    {
+      "productId": 5,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/W3RiZPcsVCT1Vwl4DuTyOupHJOzkhcDgnT1g6HKC.jpg"
+    },
+    {
+      "productId": 6,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/yuAS3aMTmKmXsHjaxsbp2T0yF3LWP6e6dokwIPFk.jpg"
+    },
+    {
+      "productId": 6,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8nzQhggViGdCsPDFcjiU9Bo1b02zBHiEt36kfRud.jpg"
+    },
+    {
+      "productId": 6,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Dc58fmPb07J9EASYm4speq6NZpFv3EkHBxShiyCP.jpg"
+    },
+    {
+      "productId": 7,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/4CZz9R27tZvob4RpRwnSB1p9lKgJhGXllVHQB0ZY.jpg"
+    },
+    {
+      "productId": 7,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JFQI0bMo7PieFPgUqhXa7ySuGAfAmBbsNmR1BDAD.jpg"
+    },
+    {
+      "productId": 7,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bXnMyYzeNRLZkCE9qzUfLqrRcqESu8tSkM0hO9eR.jpg"
+    },
+    {
+      "productId": 7,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/iN8XQOpva7gkcGV3aUhshia1E4qts0pZxPCWim0U.jpg"
+    },
+    {
+      "productId": 7,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/E87PML6zPgFSCW6iHV67qiZgKC1wNA88u6899EXf.jpg"
+    },
+    {
+      "productId": 8,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QSFv0TWoSTWOeyJOfkL7Wkh0yChLI1IyC7juKv1P.jpg"
+    },
+    {
+      "productId": 8,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fgvjJ5Fbf4sznhnMaUpPaBm0DlTQq2ohG9uzSrl3.jpg"
+    },
+    {
+      "productId": 8,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/MasCnrA3L2DiNNmu5An37xWcfXc5KONVALuoINeC.jpg"
+    },
+    {
+      "productId": 8,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8W1SzdxhYy5NArdEsk6NbfBJ2YczCtdk6h0lxgeD.jpg"
+    },
+    {
+      "productId": 8,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/jEDfnuG7fgYiqn5MQHBRiQWq8m3o6YjF5mwKbCcN.jpg"
+    },
+    {
+      "productId": 9,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5fXpbjIAVHZw22PSuhwOU1Vxqh6k5TBRAfMeD6Cz.jpg"
+    },
+    {
+      "productId": 9,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HFajJomX5MVUC5cPLIeruAkVzKq2imPDUrsqdXce.jpg"
+    },
+    {
+      "productId": 9,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/a0G5smV8DCsZAZbX6INRiQMTzKKH2ujEKfq4we0A.jpg"
+    },
+    {
+      "productId": 9,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/p4XbvRyachz9JsCM9zuwcs3sbg3dEYewy19d6C3V.jpg"
+    },
+    {
+      "productId": 9,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/m86lbh7aszN6JXgoxtJSfRwmkJfTuIpvkwn3F9dc.jpg"
+    },
+    {
+      "productId": 10,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/89pzVOmx1u1qIGXT1il7ymR9lqWnf0eJ8IGjHVPO.jpg"
+    },
+    {
+      "productId": 10,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/y12cvdYeRCeX9OfFQGAe0HTrsBbpVhFoicLc0Ebl.jpg"
+    },
+    {
+      "productId": 10,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9jRXpjEu8IM5ybaPepXgyYysj5R9rltUKJ9wpg0N.jpg"
+    },
+    {
+      "productId": 10,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GdcLMJZWku1DGxwYSbl7UWXwqgSWL4ZRJ9ZdrtVL.jpg"
+    },
+    {
+      "productId": 10,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LuAIKDfNUiprFKTENlqr3fE3bjiW5aSKTigsW9qM.jpg"
+    },
+    {
+      "productId": 11,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/S9971Db7IyaVGyOMKLa39apkrHFqNias1K62GX4T.jpg"
+    },
+    {
+      "productId": 11,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UYXMnMwZSi2z9ZKkCNcC1kEt3LErgcHMVlsaN1V7.jpg"
+    },
+    {
+      "productId": 11,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VPuQv7EqS4TmS7mcbZ0krCSFrO4MlM5DXP6biMeo.jpg"
+    },
+    {
+      "productId": 12,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/D79Rkwigq3OhU9all6kZepshlKecIjSCw8ucCkRi.jpg"
+    },
+    {
+      "productId": 12,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/4CdbQmT6yekK9MMB9JbTmkrwbD8dxuKTLAHaa1P9.jpg"
+    },
+    {
+      "productId": 12,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Uk0xLIGixolpiR6VxUkBtyGp231JZrhabNvtv4Ue.jpg"
+    },
+    {
+      "productId": 13,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ETd4HcVbBq4pyBQv9gxtAzKqF3l4gPxtD3FtaZTu.jpg"
+    },
+    {
+      "productId": 13,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HLqhexNEn5U13A8Xm0VKNx9lBoemTQdhEv8QVu8T.jpg"
+    },
+    {
+      "productId": 13,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/h1xwcthHkbBalqv2VWA8YUOS7pzBTPFTALFbFTTd.jpg"
+    },
+    {
+      "productId": 14,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Ih5kIhIXyh07sCSlrF27TwphJNaNSZWV79YP41Um.jpg"
+    },
+    {
+      "productId": 14,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HBKmKhMDoyGHgmTsLcC0dAQbJ4m9MMaWivtseNVo.jpg"
+    },
+    {
+      "productId": 14,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/BmJC9jTLAQj0qlCmpujcwOZiOvqHFxX7Rwgahvic.jpg"
+    },
+    {
+      "productId": 14,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Ef6LTMr6nejuVWYXtANuAR4w7lLgZHKlllcvRCNU.jpg"
+    },
+    {
+      "productId": 14,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2q7ZEMgSm1pZWIS9LudN7Qw46PoyQnK341qcmDAQ.jpg"
+    },
+    {
+      "productId": 15,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/REExKeqIFQBXx4KG3pO0jt6ximTvKSWA04KAOFUc.jpg"
+    },
+    {
+      "productId": 15,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NySxrjatWbAGBljPca1nOhFNTR79aDN6a3buiDuc.jpg"
+    },
+    {
+      "productId": 15,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/utMt9ws2jWHoQfaPX9R8yX6oN5skE50gQYFX57tZ.jpg"
+    },
+    {
+      "productId": 15,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/FQuJsoanOrAoOkyzR4MWpyyJBaPf1sXVaicoov4i.jpg"
+    },
+    {
+      "productId": 15,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JcFQl5vN32KwL98JsZj5DqILTug31R1DO479KlCj.jpg"
+    },
+    {
+      "productId": 15,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dU1CaymcUNIETMvDTCz0ZtesosmY4VzD0lquHqYk.jpg"
+    },
+    {
+      "productId": 16,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/RfmRQyCfKgKnjs0tfQxZU3tPJOtTWr867VdroUGO.jpg"
+    },
+    {
+      "productId": 16,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/6hSWTEhnSSIm8mmdoCxScuxxlSKsKAFwf52g2gYR.jpg"
+    },
+    {
+      "productId": 16,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cu4CRjJk7hxtZShabMMb1Jgy106j1BRACUzatfEf.jpg"
+    },
+    {
+      "productId": 16,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/lLkrHouFrES8B37hYf372lVWc9PPlSSVWyZSNJi9.jpg"
+    },
+    {
+      "productId": 16,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fKv78w8gfW3t6agkx7LGnDDKeGCR1CNFcLk4O027.jpg"
+    },
+    {
+      "productId": 16,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qN4SWkdJm0aLiqC1f28i7Wa2ZWqqSvQJxWHL5vpI.jpg"
+    },
+    {
+      "productId": 17,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cW5QPxdNVfkpMp5zDRYfrnzOUxSGtCoTg3hs9vAT.jpg"
+    },
+    {
+      "productId": 17,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YZCVJHglop0G6ulmR8vHwQwNdnlqtqI1jHjfmkP2.jpg"
+    },
+    {
+      "productId": 17,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Qxg8dnDtI5bdYcEibb4qaD2vouEAaajO4T5GLzei.jpg"
+    },
+    {
+      "productId": 17,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/mdz1R0b6kkGXiqXZTQe8iiZTlGJ7HL51wmZKfwhX.jpg"
+    },
+    {
+      "productId": 17,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Wl4rOAogFhLjIjCl2fFbfNYKDHJbq3BBJZ9SHPis.jpg"
+    },
+    {
+      "productId": 17,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/uDtJlnEXNDFTwLxtNmYDvOVeCABVsylJ8nERI6Zd.jpg"
+    },
+    {
+      "productId": 18,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5zaEK4eEyPDu9FCuuWRE66gxa4BifDRv3pF9hUPb.jpg"
+    },
+    {
+      "productId": 18,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/1LANtWMz28l1hkAIk4q0uz8o1JPaImnmTSWAzIGi.jpg"
+    },
+    {
+      "productId": 18,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cdLlOCbvjNUYTpv3eXmnSLbkveB7dtRnm9GQUCJx.jpg"
+    },
+    {
+      "productId": 18,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Edz6DvKjtdGeYbTXg7C6PmWLHFhaId7ADv6H79L2.jpg"
+    },
+    {
+      "productId": 18,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dJA62TKCOMY9kLG4Lz2NvLNdi5ASok3InuIfeWzL.jpg"
+    },
+    {
+      "productId": 18,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Plwk0Zt9b25oY8ZI1s7v6IRUwvEPlUAeBO2tpjko.jpg"
+    },
+    {
+      "productId": 19,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2r3iVw36KynEQ46lU2z7ZISWjGi1qH78r4g6HpN7.jpg"
+    },
+    {
+      "productId": 19,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kFaHYwQYCXGrOrcQ3Lvtcry0uQ8FMmU0UsTfeBZt.jpg"
+    },
+    {
+      "productId": 19,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GVFFTDZ4Y59XXoaNoXgmrIs8ndB78KwFxaivcQVr.jpg"
+    },
+    {
+      "productId": 19,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bkkvCk4AvpopMJ50TTSWyOpsbHGNtgPtp2nxuu1e.jpg"
+    },
+    {
+      "productId": 19,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5p2PSPcElocNTduKZCHnbOYLPwXQoN4Kt0wXtSms.jpg"
+    },
+    {
+      "productId": 19,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/u6peSoWMDirYJr9zk0NxeUJupBXkLRkElxStgAsJ.jpg"
+    },
+    {
+      "productId": 20,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VAGKdz02OCs6PWtoUmplgUeqSKDS67qc6ORLQldM.jpg"
+    },
+    {
+      "productId": 20,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/BDsTtilL8BHvqW5EgHB8mveH2ghnFUw8baAOjy6q.jpg"
+    },
+    {
+      "productId": 20,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/m8dMPldYg6dymP2JhbeieAFU1HX5xMQhVHeBB2VY.jpg"
+    },
+    {
+      "productId": 20,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/iUBvEq0r1FjhFUquiaqlhkDZngMMJUpChOCNJXYc.jpg"
+    },
+    {
+      "productId": 20,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/N1mFtKxYN81ywzhPIs1mImjcMYdUVLByetaFg1fM.jpg"
+    },
+    {
+      "productId": 20,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NhtWkYBSedgjXIV8BP9sMvaFnQKJnzGSCa3CeEt0.jpg"
+    },
+    {
+      "productId": 21,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YxJ4G7NL2ozUQo92HDLnHlB61YKEcRjTBdqTW7dd.jpg"
+    },
+    {
+      "productId": 21,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5xRyiRgq9mGH1z32Oul2hahSSfY9j54nAza7WjRe.jpg"
+    },
+    {
+      "productId": 21,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wBNZE9i0bv3YAXKkVcOGusuw1Ge0PY7ILXWzPg1A.jpg"
+    },
+    {
+      "productId": 21,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/p5v1ZdOxtTsZSmgHJiqresp86Ap4cDaR4Rlsti41.jpg"
+    },
+    {
+      "productId": 21,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0F7FJKVk60hFlC4WlUQaTPIKWgwfFMNdwRFFjma3.jpg"
+    },
+    {
+      "productId": 21,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/crNDhZsD6ohKZFxwomGRnwPnBzff8INY8wsktSkT.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QZOqsHtcm9XHz67kZM9h4vrMtCZb9nahYtFx8CpS.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QZOqsHtcm9XHz67kZM9h4vrMtCZb9nahYtFx8CpS.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cibcZ3E3laRSMxpJbFJU9w8OWHPUBO10NP3a2WEL.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cibcZ3E3laRSMxpJbFJU9w8OWHPUBO10NP3a2WEL.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/M7cJRfcQFcv8D0cECvdztj126vG6sZYlLHUAdKTv.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/M7cJRfcQFcv8D0cECvdztj126vG6sZYlLHUAdKTv.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/nyXIoH3Obra7KcKFDaZH3pdojz0ov9KZlUXAI5bR.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/nyXIoH3Obra7KcKFDaZH3pdojz0ov9KZlUXAI5bR.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ZQrqiLc6W9ucV7EujNhr6jBpUR7PqrQCtZQt02Pd.jpg"
+    },
+    {
+      "productId": 22,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ZQrqiLc6W9ucV7EujNhr6jBpUR7PqrQCtZQt02Pd.jpg"
+    },
+    {
+      "productId": 23,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qXyTGcAHJCqDxXXk0TacoyrHdKbF8tgiz1eYQJVa.JPG"
+    },
+    {
+      "productId": 23,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VjWj2qbTIRzNAonxGe8bjAjt6BJUVHM5iG03AJDF.jpg"
+    },
+    {
+      "productId": 23,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/czzY7nHZ6pKcj8pQh3v4evz2pro6rFJN43mnbIfj.jpg"
+    },
+    {
+      "productId": 23,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NRHbHiyfNsMP0gcw92HNjiIIm8ycQE5Fh2Jrn90k.jpg"
+    },
+    {
+      "productId": 23,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ZTVBKU04WlhJZnrAko2ZSEYQSnS3PWmck4nNzfLF.jpg"
+    },
+    {
+      "productId": 24,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/r3NddYvFpcTxvt4EZYozDibxWJe6ETBiabY4wDEV.jpg"
+    },
+    {
+      "productId": 24,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qJXcr77oloVRXIIbS892JkuzZc1a6MPR9eDhmtQX.jpg"
+    },
+    {
+      "productId": 24,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KdyCGd47ri3R44RwMRoqlERWqY8FuDYGm6lSPWdH.jpg"
+    },
+    {
+      "productId": 24,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bYyp4PzCZid0wXxrA2MpHiS4Y3Qohhode8yN55yV.jpg"
+    },
+    {
+      "productId": 24,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fthh9ZOpjFACm04u2vkvMyuo8ZVD5zqAgf1B6omx.jpg"
+    },
+    {
+      "productId": 25,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/H8LBqUvgG8pyHFcBJYrx1OLAGDYDm1lxt6luW3Wu.jpg"
+    },
+    {
+      "productId": 25,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kbTAax702yTRkvDtgohrYq7zvDLFshNwDFOags3J.jpg"
+    },
+    {
+      "productId": 25,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/khttAJ7SBXQAFmMxLpqmWzwg4gZBTy6q3Ua0j7Nm.jpg"
+    },
+    {
+      "productId": 25,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2DBE7x8IRBfVuy5odNVPYXkItVjrRAf9SEtXVBRj.jpg"
+    },
+    {
+      "productId": 25,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qBckZh07qR3VeD7Yt7d07Yxjw2ZgrNkP11FfLtFL.jpg"
+    },
+    {
+      "productId": 26,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9zFFhcDPHXpc2AbKq1pvKaYoHSBfCFcj6SetEsr7.JPG"
+    },
+    {
+      "productId": 26,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0akppQbI4wa0uyDjmDiS6VNgF88u2PcieKH93Oq5.jpg"
+    },
+    {
+      "productId": 26,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/SuD0OZZ1Bq5aRFUMvw23AnvZgUXFpWoWY6DoeddH.jpg"
+    },
+    {
+      "productId": 26,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8vI2WYHKGlbMdZAnRnV7CAEHWehU07OrFcD74uRC.jpg"
+    },
+    {
+      "productId": 26,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NbYLAPEyKWUWEWnLSH0NkBWqdcdA48yCor5dHTU5.jpg"
+    },
+    {
+      "productId": 27,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YmRJvTfgLy8g4L2OjRm9es04CZePIIm8P2rjyV3Q.jpg"
+    },
+    {
+      "productId": 27,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/jZhDUSfJmBKXxVv8jqHe7NzLqnGKaJfRFJRKAQ0S.jpg"
+    },
+    {
+      "productId": 27,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5yxLAE6uElSxHiOVEOpaOIDNF5fBoSVd3civ2JW3.jpg"
+    },
+    {
+      "productId": 27,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/82r1BqWVGHOU5N2kF55PQ597NwQa6e3juOx093vu.jpg"
+    },
+    {
+      "productId": 27,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/CNUUD7ls9ukxqJdgBpgXRLsfoRYOB8pz4Z6kDika.jpg"
+    },
+    {
+      "productId": 28,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/RmjHFu3sPTXIFHpcPxBwbSs8unmMLwHYpxf2UWCT.jpg"
+    },
+    {
+      "productId": 28,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YdASBvLK02Ob21eC3K8nDTOvmUWsVx2tkoS9VJze.jpg"
+    },
+    {
+      "productId": 28,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KBgichE6uHXlY7Yig6dJZM07B8KRkCbxZnMRtV48.jpg"
+    },
+    {
+      "productId": 28,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2OILdgBMS9e9JJ9qvsv89P9E3jdXS2dQApH9szId.jpg"
+    },
+    {
+      "productId": 28,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KHxhBsKoAwbtSu4BzjMRmSVZZtkaHqdwtR0Ruk79.jpg"
+    },
+    {
+      "productId": 28,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/XXQccrHbAWetSRLBFwwrhVl43cSg0IbEgI9qSebx.jpg"
+    },
+    {
+      "productId": 28,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UfTSIedAbQzBFrmRcFvwyXrI6TX0y6Cc8XP9UJkR.jpg"
+    },
+    {
+      "productId": 28,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fz9Y8lAfQLuZq6xx3zsPwlwRdMN2242fyBTgwZTo.jpg"
+    },
+    {
+      "productId": 29,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Ev5Sxqm2X6BJYCYA1BzzfNCd7avOLcV7cHU3SZs8.jpg"
+    },
+    {
+      "productId": 29,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/3infKFoDe47GDZWRYACSYT1RsPhSzucS7Vxk1H0r.jpg"
+    },
+    {
+      "productId": 29,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5QQ8GOHWZnUYqWtGHUL2xOvuctYiI8hyA5SkDb1M.jpg"
+    },
+    {
+      "productId": 29,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kaU4byTgPsWLLBriXS6cVB7L95P2G4E7YsimDRz0.jpg"
+    },
+    {
+      "productId": 29,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/C1fZ3czU9NifkhBBX1JlizYk82tgbEnpSIuOYPMi.jpg"
+    },
+    {
+      "productId": 29,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KShEA97lYLl0EX24lD325rk1F2nqNlZ5OTXm6Iug.jpg"
+    },
+    {
+      "productId": 29,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qtlR6Naym67Qv14tAmd4uVCI9BQ7jFBcMhOISDim.jpg"
+    },
+    {
+      "productId": 29,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Q9uQNJzvQDe8wElRzky3w1xEgdsLW7PHzn44HtrJ.jpg"
+    },
+    {
+      "productId": 30,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/SxujLiYdT7vMzUZbi9Q5rnr8xVaBeQDmriCWc19c.jpg"
+    },
+    {
+      "productId": 30,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/K06H07pXMiWKn2F6VaOLwYsx8yujKhx1hWAqeYfE.jpg"
+    },
+    {
+      "productId": 30,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wBhrXhf5RYCOXAs6gDa6KYqJSthtgsjaPg8Pv1cK.jpg"
+    },
+    {
+      "productId": 31,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/xuL8hvWWJWS1W8OFQZ7b0AsHNCeuRmHqDXHEKOzt.jpg"
+    },
+    {
+      "productId": 31,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rkbIwrBGy4gRZVfMmBaK6XNuNwk8IMVAs2rgClcT.jpg"
+    },
+    {
+      "productId": 31,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YuFy2ukIzh8zbsFJ1YanqIhwwSb5jcNiMp6DEziT.jpg"
+    },
+    {
+      "productId": 32,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/yU8mIzcbyNWO9OupV8mfF9u05GpFhRpqzkKwjaJl.jpg"
+    },
+    {
+      "productId": 32,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fNSM4oleIZrn1MgonlEZiGAmz8e8kCG12OVyiqTe.jpg"
+    },
+    {
+      "productId": 32,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VskvzHVP4uuRu7asWkDDyZu6QmhwyWHtnKJ2X9R8.jpg"
+    },
+    {
+      "productId": 33,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8UvGBXPyFkS5nkGe8J5bIPnLPcE0qMZe3XIGSvI9.jpg"
+    },
+    {
+      "productId": 33,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/RD9Ce1JMrmuRzbmEdwfSGm89aQ3SgVAoJaSWsVr0.jpg"
+    },
+    {
+      "productId": 33,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/uXX1iIuXQCUGCtk6csB9qWuMFIcSzaJZqpOuXV2s.jpg"
+    },
+    {
+      "productId": 33,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/t8gY9u7zQTDEetG0MUdaZU2tZ4k501g9zJ94nweT.jpg"
+    },
+    {
+      "productId": 33,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/S48p3n4Aa8UPWqjRGddP9ZHBQ0yxq7QRPMGBNdN1.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/nE1PJsgju3gIaSyF7mw4oHjGtqCYGATH4V2JiQHm.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8hNsiRvgfqf8Trb8pp8tI3IZVhpvyoBGQzKrap4k.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2bbM9lev0DcsWTlvnJxv0sLobhU8lNIQsmqCeQcd.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/DDq04pKUm2xdP5aA4nJQS3f2UdXxSG5hBI9XuwVV.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LNMcz51mRRzcGWzFmCMyIow34HQooIGQwZhLXXgw.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/6BCRAKZ0CQNVzCUE7imOt2M60MgU1oD3iEG4xJOw.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/XHO5oD9HcVZ64vcmoArCsCqGWDAv2OhDJinrDVte.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JQsH6TAatr9gIitCApzE6kNMinG5FhgNTwP3uALA.jpg"
+    },
+    {
+      "productId": 34,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dqwI3ItwiTUl85VPniVUG9i3oZz23KKVkSvibNCZ.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NI7qT60chgFTZj6u659GBWQM91nuJjbxtbIk43X2.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YtM122eWy0AecEISTdkdUIcClgi3CoHqOA0MDKdG.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/CYeg5UIwf33ANJSEBWaajIEQaIMfmMCwPPj3lVGy.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wM6VN0FRujsdVfFTdN9v6SgWl031DKLT5NzBOcHe.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fYAKNixml0HO1lV5gYzdglx9uNfUAA1FJls2bYLd.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/zBQXmy4c6Q1ERO0UN45nBdh1qBUIPFM4II68S0cZ.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/nUFYzKs2ZJ9dM9lOZARliixmeLtld5oatUzckpj3.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Rp9QjoWe1uK5drGnplm4d8glVt2GdsgxjfDbO3Lu.jpg"
+    },
+    {
+      "productId": 35,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vUwQHfhBOGAibxKmf1315cg7TaeXrrui92JmWome.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/uG9gl1zHJwnTpfMZwZrLn5uBklkcIgSpJH45Hz39.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/D52grdTzuUCfLiWFpavthB60eFKOOpAA6HS6FOSz.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8mi8SVrQUULr0sWBd43qMgVIwtknynFOUg8jJFRW.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Wu0MEaEkIekSiiooTVwtyzW5qpYKIbWSA972VNPW.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qkbLIWWul9pXLRxVpHeyYpjwuKANhRdlCoTTl469.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/WdQxeVHXWr3DCo3XshhDGP0bFhRIpqc9cde19Duf.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Dx9yiLZkzikq73fTvMkFYR2Pnl5Y0RxQapTe16qT.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ndt3THzOyapx23xg6YSvrSlOMtlV6bKgXJahDWD7.jpg"
+    },
+    {
+      "productId": 36,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wrz4dXPOz5DtodsxX0gz83H5DSZf4YXYQtlmYcp8.jpg"
+    },
+    {
+      "productId": 37,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Yhj9zsb3GqWX4bU6XGGWwHuQVUNfjFKkfF0Egyo1.jpg"
+    },
+    {
+      "productId": 37,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/38IYiehadaeqosQA4FmEZHOYuJRwealEGjS0a9bp.jpg"
+    },
+    {
+      "productId": 37,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Owr4tzbcqAijFb4bO4LqrhBqQEBlcPM8sTnnJucF.jpg"
+    },
+    {
+      "productId": 37,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/eVPygg0mIeHTR3MXFsWz92DcgNKPGRqLiv4tqJmC.jpg"
+    },
+    {
+      "productId": 37,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VunM3TZR1TtiwBplneVfXhxRsSyxClIV7eGo8g4f.jpg"
+    },
+    {
+      "productId": 37,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ct6qCFTofQDcsCa0tG7lyX4odpMiBMVVHyDZ0cLp.jpg"
+    },
+    {
+      "productId": 37,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/4I4rGqGy6GszJtS01p6oMjj3hgNU5a1g2HqkGFaC.jpg"
+    },
+    {
+      "productId": 38,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ipprO3fRpKCdlZiJiqlHwVAeQJOtgEr3XwO0iKdc.jpg"
+    },
+    {
+      "productId": 38,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/uAShrkt6Oswg0gibMRxbo7fx0WEXJie1AAJikLim.jpg"
+    },
+    {
+      "productId": 38,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OvpA46eb08ykgMw1fN7C1ZMqtDqBRYdQ2JagMUGL.jpg"
+    },
+    {
+      "productId": 38,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/xiijZz4XWrG3Q1840RQXN9yZbUB97z5cd74a4XF4.jpg"
+    },
+    {
+      "productId": 38,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9W1lwisb4znq0dbBhh14sQd3GlbmKlRzHzyl9u1U.jpg"
+    },
+    {
+      "productId": 38,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fMwyamYUDGatY5YPicx8Tco7winiM09s802ciDxa.jpg"
+    },
+    {
+      "productId": 38,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/TugZX71k26iBq8mqQxHlf86gQBInJB5aAcJLPzEp.jpg"
+    },
+    {
+      "productId": 39,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/tmMhk6woppScteChDtTLhPmS05Ap7I4BM91EZlbS.jpg"
+    },
+    {
+      "productId": 39,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QMozwUHHCZHIduZzJ1rpqFaR5Ah65FOXvwGyJsl3.jpg"
+    },
+    {
+      "productId": 39,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OQCFZ6PoMg6zxfL0fy4RW9nssILCyfUXU1O6sAJj.jpg"
+    },
+    {
+      "productId": 39,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/smlCTDi3BN2tvUYyARF13yvmooxbCQeCCAHxnBUs.jpg"
+    },
+    {
+      "productId": 39,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/XboMpOu6Iqguc3m7LB4AUZjz6SJIcfIHJ3cnqopK.jpg"
+    },
+    {
+      "productId": 39,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AWej0oVNyNjDACaxUwpngZ5PT4xvYVvplFrix9hG.jpg"
+    },
+    {
+      "productId": 39,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/aR30klkt5jtYvRjj62sZ0qetszZHAU6FgyTUQ7dh.jpg"
+    },
+    {
+      "productId": 40,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/IQDITkzXdayCo2VzMrd7bZD4pauiLKUJ4xy7ARIs.jpg"
+    },
+    {
+      "productId": 40,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ppvSQYUfo6HwT1YrB37CQ0zZ3oZLIzFdtI46jH4O.jpg"
+    },
+    {
+      "productId": 40,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Q9UwnhAVEpNpzPf0KQcuArJdPhxYqilZQTm5y7sk.jpg"
+    },
+    {
+      "productId": 40,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QkX5gMenAwNJ1PjqCdnAgBU8aUani3Sty4ZE5A0q.jpg"
+    },
+    {
+      "productId": 40,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/IP0D6nJ0AyTfujOcjPNpxo8uL0GjMNY9DnByDm3o.jpg"
+    },
+    {
+      "productId": 40,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/WdLLkPYVYpKRj9LRZZ8rkZqxoabrxvabHvtwSbqf.jpg"
+    },
+    {
+      "productId": 40,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/IxoHfgOTfrE2eFlDXWTdGXJJLfhPdH4JCvY6lEgA.jpg"
+    },
+    {
+      "productId": 40,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/v3XyzkNJxE911zhjzps72oBx3njWayhuAxTC3sR8.jpg"
+    },
+    {
+      "productId": 41,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ZassBoQZ3eQioYCb7C53jpnsZnNRr4GKTJrmIdLu.jpg"
+    },
+    {
+      "productId": 41,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HtUx7DJVoRXcrPysDqe3h1lpxuJUaWbEwAnO3RmQ.jpg"
+    },
+    {
+      "productId": 41,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rV0JJehkwoQGBJ3GRoSklrLgGWYt08NhzzoXYAkl.jpg"
+    },
+    {
+      "productId": 41,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rhn8mzYtd2c4BIxhrUeEkaFl1314S89DrmnuXfh6.jpg"
+    },
+    {
+      "productId": 41,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/29PmDrVxDJg0svwyYbLX7KusP57tUIjdIXovCEYs.jpg"
+    },
+    {
+      "productId": 41,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/tr9yS4Q4Gl0BqlzFM1sq28eoP8paPh0YjtLFE3HA.jpg"
+    },
+    {
+      "productId": 41,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/PeE2nxSHHuec4FzZbK3Y0iLmLWPBfsp8e4IkMMGS.jpg"
+    },
+    {
+      "productId": 41,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/82s06OqLejkBUuJhs15pZuWaI7ehxSJKmvH5wg1j.jpg"
+    },
+    {
+      "productId": 42,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/CQISZemgRO6l1zQegkqn52GXEEbCm3Cq8X8TgWYX.jpg"
+    },
+    {
+      "productId": 42,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/EeeQn4VKhEOXStlt3xtMWUqclptJXhBft9LYxjai.jpg"
+    },
+    {
+      "productId": 42,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/EC9pKyDoSDSlnnoSciITp3GsXPphBAJPs3sknad5.jpg"
+    },
+    {
+      "productId": 42,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vPlr6IzjgHVLNJQikJONgIxROc4Wkw9u1Nyocgbc.jpg"
+    },
+    {
+      "productId": 42,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/q1FG5a4WnMBfM3s355RzqzB4WKfA8DwO5f5cynJi.jpg"
+    },
+    {
+      "productId": 42,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9IcJJiAkuhkwKhyJ8FNr2e0XqMIBJBnmGTXbIIaP.jpg"
+    },
+    {
+      "productId": 42,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kXpvkn1gI4G8XZsrrZHa4XfQ7BxV5YqEmogmp4kS.jpg"
+    },
+    {
+      "productId": 42,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fCqN0hQ2Tspl1vHcGm7l1MvARprRGd85XzXgdACG.jpg"
+    },
+    {
+      "productId": 43,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Pq1LYR4DbRxtejzU4a7nxebjSPf1wJew6hafJeOc.jpg"
+    },
+    {
+      "productId": 43,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0N3mejvb8aNeo0MRLyElDOsbTwENmifabxbNCTMl.jpg"
+    },
+    {
+      "productId": 43,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2DniQ6EySTFliYpLFzu823oo1svUMsBwrLnbEaKl.jpg"
+    },
+    {
+      "productId": 43,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/FMqtj6OrxHpehefQ6YZfVUm2V9ShAqbUf3Qjy6gH.jpg"
+    },
+    {
+      "productId": 43,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/j9grqyltuOahuuAJTtaj7j1KqyMW3mjb9OIcQhFS.jpg"
+    },
+    {
+      "productId": 43,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Go84R1KkaryH45BFIjlfnQcxTRSwCZsV5Rg0KJzG.jpg"
+    },
+    {
+      "productId": 43,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/c1pHx5mA8zxVkTshyPRM93V8b6GDhSNlJ0wJaqRm.jpg"
+    },
+    {
+      "productId": 43,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/6ptNj1IW3NDrw3e2Qff9psxsmWtRTU31wfBr6HjM.jpg"
+    },
+    {
+      "productId": 44,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/DIBn8w5sGOOLMOL3coTpFC6T3bRzz1hqit9LSNSS.jpg"
+    },
+    {
+      "productId": 44,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vfmqHTAyZLjzjBmEkE2FvdLvpBLBh3mp9cUOp4Yc.jpg"
+    },
+    {
+      "productId": 44,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GBtFB1yZAFi7eOIq1CGzyUhIZGXqfKIxnWVzFAoV.jpg"
+    },
+    {
+      "productId": 44,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cj6zMiNFVPt7U4L0nBhOLXF6mAfRzTH5gFQDgsyv.jpg"
+    },
+    {
+      "productId": 44,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vr84LS7fDInGQzhTOxPMROJCDgpUxtavFR0rn6pr.jpg"
+    },
+    {
+      "productId": 44,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GjISwVtqKMkislJMwA36iZUEBLSupi1EVIgFHbbF.jpg"
+    },
+    {
+      "productId": 44,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/heRvRQZacWcJ8PAhyv2SZCN2uLFBLoiqrDZQ7xlj.jpg"
+    },
+    {
+      "productId": 44,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cwVBahnCvGYa7J4W9KnHtkjLgM6Z5gvx3uLJgVRB.jpg"
+    },
+    {
+      "productId": 45,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/152MMqNfQ8uFIAQjZpc5Gn8S82Jy6o9DuM8H6Oww.jpg"
+    },
+    {
+      "productId": 45,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/F5XQEPL6aSZGjcJzvGsiezLIJ8UfRIcgkrmknvsm.jpg"
+    },
+    {
+      "productId": 45,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KF0yqPzBZ1y3Rp1JbAu2MJh9mkHJuGPta8L1MvOQ.jpg"
+    },
+    {
+      "productId": 45,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/EsmyeJ0jzVj1GVV4yonLYENkQ8pSV7MdbYvKaxNj.jpg"
+    },
+    {
+      "productId": 45,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/I715D00c25qQMG4HLFxZDqu4eXH6I1wk2nWeUzvS.jpg"
+    },
+    {
+      "productId": 45,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0FohlMiCX05m6FOw2IJ1cWSwfj5VhtdJlQPcwxax.jpg"
+    },
+    {
+      "productId": 45,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/MXjInzYWY0qWhYtOehBuJAJAScQlIfsIdY3fCPuL.jpg"
+    },
+    {
+      "productId": 45,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rd9dZTr7e0JApRermIxk8t6xhQPNx7pnT5Z2mCFL.jpg"
+    },
+    {
+      "productId": 46,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ysvDd5KyoXoOZ6cXjkVdPe0i9S9VvadqXeYyM4ly.jpg"
+    },
+    {
+      "productId": 46,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/tsA15yF707rivlEaX8HRqJUWxjv4OIzpnQzrIwx2.jpg"
+    },
+    {
+      "productId": 46,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7sY721TPdkKSmU8YdHAntiL8UydUKQcNdhHdvjRW.jpg"
+    },
+    {
+      "productId": 46,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/H0Vs1P6Lw4g41Oq2rqyW6bcLUsTuVg7yH8pzVeAe.jpg"
+    },
+    {
+      "productId": 46,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/S1xDeW9yUUsiIOfwAJO3cGNcAB2pQPPQtNljE3FB.jpg"
+    },
+    {
+      "productId": 46,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/pA9Z3JlqQmqTtscaf14wpi6ejwXLu7oexROT9Q5B.jpg"
+    },
+    {
+      "productId": 46,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/lCIauTxvlbR9AMBCUP37hs1uiyfiYGlntrc3K5bG.jpg"
+    },
+    {
+      "productId": 46,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/MBqzyVFNpTPKvfNozDiv8VCQYjDeWL6BlJekiOj9.jpg"
+    },
+    {
+      "productId": 47,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7hyZlaLvAh027B0x5vxNJwfCZUNg3Ml2XUIjfgNt.jpg"
+    },
+    {
+      "productId": 47,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/aDhCjaBzbUcxG2fQGcgz3SIAHpUbmJy3vv9IfdcL.jpg"
+    },
+    {
+      "productId": 47,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/gkamQ9InkxuSQj0wcqoiJClbszMlkr3pxuxXkUdu.jpg"
+    },
+    {
+      "productId": 47,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hzPwNKLNgsfh9zKwaMDt8K8DYjZLc1LxZjuxg8U0.jpg"
+    },
+    {
+      "productId": 47,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0klIr8N5ZJvt25qIMk7JtFu9t6VqEt48HXFLCuwD.jpg"
+    },
+    {
+      "productId": 47,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QLzoihNKsHmaIHYvdjXZjBrARIuTRa2eJRyUe3rw.jpg"
+    },
+    {
+      "productId": 47,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LaBqbywcYkTOfWpUWL3envdzZK6wiHhshXzhOkXk.jpg"
+    },
+    {
+      "productId": 47,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/gKJCF7oVeAsYJQ43JjUCFjbazYTBOZM2NojDd51a.jpg"
+    },
+    {
+      "productId": 48,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AgXV5APsLk2DWwaGKYKO6rwvyhshnaEY1sjVuSz1.jpg"
+    },
+    {
+      "productId": 48,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/oWzdsXngu39tpvd6kJg8GiCgFKhmghjyp48bBh0q.jpg"
+    },
+    {
+      "productId": 48,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bZ7SwGm747JpeI0PuccX1i2miBv9yxRXJYa8b2b2.jpg"
+    },
+    {
+      "productId": 48,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/TwlXO1MVpQmsuEbORtdsamvXNHPxaSTG06TJmvnW.jpg"
+    },
+    {
+      "productId": 48,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LQRlOZbkHLO1YaNmHtCwpjTFakNCrFU6yi8k1IpE.jpg"
+    },
+    {
+      "productId": 48,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/beuQeO3vprMOltDB3EiVAOzpgompOHMq9YfgDbwT.jpg"
+    },
+    {
+      "productId": 48,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kWjz6SyI8YZql8JKqxXsrUKHzNi5bOhhj3jCloMG.jpg"
+    },
+    {
+      "productId": 48,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qIRVIrWUGB8XnDzrT1RrxjwFEhGFtQ20q7X8fNlB.jpg"
+    },
+    {
+      "productId": 49,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sawpD9k2wj8taGIr5lTouehpYOY03xCbpTPKGCs1.jpg"
+    },
+    {
+      "productId": 49,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ILY39OISEsKBZdleCmmci6Ii4CF39nuhttR1A2nw.jpg"
+    },
+    {
+      "productId": 49,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/1k6Ehg6R4El1skwObUI9JKFk5BvQ24VkmzVQCUmj.jpg"
+    },
+    {
+      "productId": 49,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/SXJtUCcCxK5uUtKk1X2WdvoE60icGFID0M5RcKNe.jpg"
+    },
+    {
+      "productId": 49,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AYXhfaj529Zh1N8V4qdT59rfNanJYd7E8rJDCGUb.jpg"
+    },
+    {
+      "productId": 49,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/D4ZbroJM8mZNKaUHxOoJhuXP3QXnN5IrfPMOoTf4.jpg"
+    },
+    {
+      "productId": 50,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/TbbRrcJPh1GnnwChnlJAGOIpLirk4NlnB3LmAVoE.jpg"
+    },
+    {
+      "productId": 50,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/R9EadlT3QGD7LD2VUNjoPUqBH3fG23xZkVgnDeIj.jpg"
+    },
+    {
+      "productId": 50,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GFl5ESuQahoRlb9HLiO62pn7EjvvajVp4X6hFXDb.jpg"
+    },
+    {
+      "productId": 50,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/z42CVNvUDZ7cUK8MzEmibmSqopaOkmhBwsXf0dDD.jpg"
+    },
+    {
+      "productId": 50,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/quTlI0ZK0DHKT6jSyuvN50esmdZg5jGuBv6dmeLY.jpg"
+    },
+    {
+      "productId": 50,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9YrR7gAcAXSIEvUn6GydKrmf5OpeOvGnoXdWyVnP.jpg"
+    },
+    {
+      "productId": 51,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/tbYkQj3F3nNkwwyoMqQvl11EcAHBY0edUvQdrEIL.jpg"
+    },
+    {
+      "productId": 51,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/xuHveW54QSbrAqiKpyeOg8Ig2N8EFUOl6eeTnBPH.jpg"
+    },
+    {
+      "productId": 51,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cHWs7cVeo00qTEMdoAUvlF2CuGAqiwOFQdufqZLz.jpg"
+    },
+    {
+      "productId": 51,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/aMu3UaiN2uIm2P45HvaLu4zK5siitvP5YXPQFwjU.jpg"
+    },
+    {
+      "productId": 51,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HtHZzCEh9wVYjpuEVAZIBKvhy1KSb8hXi5GNwK9W.jpg"
+    },
+    {
+      "productId": 51,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/yKaIlz3qLbN503pKr0kgcU9Xxjc7hQkOdyFNaakt.jpg"
+    },
+    {
+      "productId": 52,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NVk1SI46wEvwB7cxnDNbg2WGOpoTV4F5GeWbDFVa.jpg"
+    },
+    {
+      "productId": 52,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/SybImFKrUjqltOWrkbHbHuEgb7dxWDaStmsqmeEB.jpg"
+    },
+    {
+      "productId": 52,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/XU61L1iZ4YCm8iWddMVDnndBDUkyib2XMAl0eSlh.jpg"
+    },
+    {
+      "productId": 52,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QByI5prBgN20NWv1eBqZEaqVCVLJ1P6rQLyEWvjZ.jpg"
+    },
+    {
+      "productId": 52,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/v1iy0vrh04OrWeKT04bteS6xXrVlbiKRDBgmAKhn.jpg"
+    },
+    {
+      "productId": 52,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QRpRgSvMgDbhwGzVS5aXP1FGRFrCv9oDgZnGL2KG.jpg"
+    },
+    {
+      "productId": 52,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UzEn4PZA0fuTBN3UkstMFFVrKfDfnKXnja110LR1.jpg"
+    },
+    {
+      "productId": 53,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Pi6BhtiCI8En8fP0c9A1L41scXU5oQyIoPtouqfb.jpg"
+    },
+    {
+      "productId": 53,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Jf8OgHH7PrqGu4BJur5AkTBMAmNHBhU7MGhd0va4.jpg"
+    },
+    {
+      "productId": 53,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UYrTJoopuxJ85MYVm8odRkgVqfsdPWNIHyKtdHrM.jpg"
+    },
+    {
+      "productId": 53,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/CGJ71xu3DbHgkBCzXhbmX6oRaCQNAyKgUHXFSMus.jpg"
+    },
+    {
+      "productId": 53,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/gV6eHVehIsilqapSClT88QGOjhHJ1S8sDgVTCn3Z.jpg"
+    },
+    {
+      "productId": 53,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5uVpdizzstCeMABxIGJuktgVMaovhLBfCGPdWw9H.jpg"
+    },
+    {
+      "productId": 53,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/3RX00GpJU42LDDjjC9pl9rhEU5kkL7NY1HQn0N51.jpg"
+    },
+    {
+      "productId": 54,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/y2Fxwgapratng5rBxDnPfu58BEOw4ebUnOk618VM.jpg"
+    },
+    {
+      "productId": 54,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/zjRBj3j7NnoWosyThTRfAIbhxoDEffIoEAuPgPbs.jpg"
+    },
+    {
+      "productId": 54,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5ChxOMKkvqXNCcBPgJrMrLZJXyQOdHYESV9O8Ubs.jpg"
+    },
+    {
+      "productId": 54,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GiGoypGbiH7lPAHoq7tfGYLqMh0p0fqLpBpxCfS7.jpg"
+    },
+    {
+      "productId": 54,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8VByDziAUzWQP5fWo8TESnoEHVvC3MrGInEn51Rl.jpg"
+    },
+    {
+      "productId": 54,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/EvrDH6cch0oQx6cJQAXA24ZY5y2SosjJbhyCBGXs.jpg"
+    },
+    {
+      "productId": 54,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/aNOnlG3Pf96hJ029WUSOQVfhH6P9r3qoDERYcyhf.jpg"
+    },
+    {
+      "productId": 55,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/U4paw989ULMIXcbXsJ7P63fovgmPOWmLUQ9Dwh25.jpg"
+    },
+    {
+      "productId": 55,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Vw0WO5BC02y0MnkEkx5v6HkD5krJK5IOdYQ6hpIP.jpg"
+    },
+    {
+      "productId": 55,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/srppnveJ59IXmyO8GTB3QVUEDC7lO2FqQPOZ2a7N.jpg"
+    },
+    {
+      "productId": 55,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KKvvHuDGQfut3MVqEPPSsr80GicYPYOoql6D27OF.jpg"
+    },
+    {
+      "productId": 55,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/6PuwvR4XrCTqoh3p3yYAsaKIfFLE8667sfAjG0Ct.jpg"
+    },
+    {
+      "productId": 55,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Qu4DVelXzGkRQ74pU1cTh0aBJRjMzIm40A6uyY38.jpg"
+    },
+    {
+      "productId": 55,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/BSuvPDTDWmW9oekwebUujQRicrln247AgMLAOhxO.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/08F8nDbCvg3MZrreMDd6X7Uq3f4S5Gb9FRocQV6v.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/jA4au8OydZCgJB6V8c7WxozxGhN5pF7Nk5OHnyBj.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0ZikqnselaKrXFQjUJ16zxpp48pHyWrGPbV2LmED.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/oFoVn1Fewi5m1XhPgCiJU4UMVE6mC5v80tjeF3Z9.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/a1gqncywp5Xt5jW9GQbASQedcXXCXibjS82b0kNa.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vUbMqd2sLnre9Amr3H1PUdAbByq33h9HNfkgViaO.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hVVyw591siBON1YXdZsi7lDwoNgjpCrA2P44gMc7.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Q7Dm5kHQsBk45EwdlwjGIqx0tSBPZ4TvMOzcxs1f.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8S2KDFxAlTdNkmwOte3Mj3jJPAipdsMgpRbNcn9o.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OLaJVdOM8gdhoWwGVv4o4uc1aA60cTC0hoscU2N7.jpg"
+    },
+    {
+      "productId": 56,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/EoDE7hL3JwbSJ8ujoENQFVw18fMmu7NK1a7NTlEr.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ZqB6GPNg0kAJI3Uv91ksKHz4uPn5tk5BCSD3sewc.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Nyw5IZaBurvul4WyEOyu98tQXxoiMNR800lnO081.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OPsY1nP1ZEmeGKBl4wO3Shsw6yLJHH4iv6c8f5mT.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/A9iaiqzDSJiv5G944F3HqBpzSV5v58B4NAV29suq.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/CaVxqa8k8Fv2cyqUodZoVXXaqmAEYr3ebbuMizuR.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JXPrShrp6ijLAUKFeG1rNlzurT1Tu2dkjTnd70P4.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NXkJdInUYh7gxdgwFVTsfpznocMhUVl24hIUfmcD.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/O13NH6xbteElFfYj6OZaG537Qsr8zLMJM4BjLEMh.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LnT2MSZ6QDWibrSqYrE0T7HWCeRwNkvJfNncIyoB.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/DbKBog4czJvcmQvVGe6Ox7lpe1Gd1SiPcTOxHUyx.jpg"
+    },
+    {
+      "productId": 58,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KK5mFS8sOKp1xDHC1Nu46m2tYjbAL1byE4mB76Hu.jpg"
+    },
+    {
+      "productId": 59,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ICeROBaZRo7eKEPz52jiMflx2xFQImGULLlvpC66.jpg"
+    },
+    {
+      "productId": 59,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/N1AjJw14MkbdZaNEYVJglsaOrMNfzIQoMYUqHzOt.jpg"
+    },
+    {
+      "productId": 59,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KYibAshSF7zwLL0Nmy9P0853axmNpK8opVVaAtu2.jpg"
+    },
+    {
+      "productId": 59,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wA9gs0X5W6Y97EthYFCu0MpVuJOWsVFoO54Z1oJc.jpg"
+    },
+    {
+      "productId": 59,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8l8jc4LOte0MC0zNBIgOhMyI9yu18PhhOX5grVUv.jpg"
+    },
+    {
+      "productId": 59,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JsQSUekpQjKeSxA15qpm2H1NkYdb2Sb5TAziLQ5T.jpg"
+    },
+    {
+      "productId": 59,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wqQ47X727bObuJN1cGLzIWPjm15bLrtdBwoWonHS.jpg"
+    },
+    {
+      "productId": 59,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ybB8YE4CyNjWcoKhgFvVYpufGVhRf1t8dn6jZtYx.jpg"
+    },
+    {
+      "productId": 60,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/4VEBm2fvl0DvJlMJ22CAN0eyXFmFBJeTnAa55fuM.jpg"
+    },
+    {
+      "productId": 60,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/SVMs4djLiR3qPLq5D96wv3v2f5JePIn71j3RkrWF.jpg"
+    },
+    {
+      "productId": 60,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JEC6JKz7ZoejOHlNK31AuZoU2CV6bKMmmuuEiAE1.jpg"
+    },
+    {
+      "productId": 60,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NQl72J4WfuQ7FNKR3UtOAl6ZE1CoYByERC1aPZYG.jpg"
+    },
+    {
+      "productId": 60,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dKV248HTvPpmD1JMqXlXwyArsqe8DFZVWTTDPXQK.jpg"
+    },
+    {
+      "productId": 60,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LaCLgyoTkYmQdW10JMUPRVkVxDfGzQcND6FpW4OA.jpg"
+    },
+    {
+      "productId": 60,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rR4g96Indmb0OnQ4kEXI4lIkv4aVd1aeoEC7r7lJ.jpg"
+    },
+    {
+      "productId": 60,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/t27SYff7HDi9wgXDf4EJ6cInso8AHyvC2iFxtcnG.jpg"
+    },
+    {
+      "productId": 61,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/At2As3kjrcYF2PqNhVe6Fuu03puMtrWdCugPd7se.jpg"
+    },
+    {
+      "productId": 61,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/SI1gELDuNpuXLmZZpnLBTdhy7ZuzZqnRg2bVtqgq.jpg"
+    },
+    {
+      "productId": 61,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/azd0vUer8pwxo2r7cUz9EleUpGpt07MAlJhuvAGl.jpg"
+    },
+    {
+      "productId": 61,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/4PKqg0LBGF9TXOvJ3v8ljiuMCDOMncJv4vqdafNg.jpg"
+    },
+    {
+      "productId": 61,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dgS4omdAv6Ah5GeDG9GGOeuGymBs0dZtJGPdgQAg.jpg"
+    },
+    {
+      "productId": 61,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0RWz28KMsC2imiWUO2A6DSEq106n61tlQSsAjVvx.jpg"
+    },
+    {
+      "productId": 61,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LPgm0ne0a4L0k5eaCiseP5KC63N0U19ALavZmpp8.jpg"
+    },
+    {
+      "productId": 61,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JGb9IaPgjVC4Y4LWqAdXvm6RvXDfT6L7aUsjFlMG.jpg"
+    },
+    {
+      "productId": 62,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8Il6lpTWpC7amkWDnTohypuJvsHQBiN7FzPztnKO.jpg"
+    },
+    {
+      "productId": 62,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8OGsO41fIcj9yJ68DXseraqbhBBs3yqXhJ30T9C7.jpg"
+    },
+    {
+      "productId": 62,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ze3hcw3MvVyJq8UwZTWWzkBe4QDluLgMZzWXZGA3.jpg"
+    },
+    {
+      "productId": 62,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/1Ei3BJV8GMBDUpddTpkYmXfzG4T57Nn8SVdoZNUo.jpg"
+    },
+    {
+      "productId": 62,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bzAs4IB5RGw2k6DTdJH3Mntjx4R7YY98H03m8mul.jpg"
+    },
+    {
+      "productId": 62,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/I1ii5DbTB13Tb1iTNYQy4ydTQePxtzE1Oo77qh5a.jpg"
+    },
+    {
+      "productId": 62,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ADdIHhqs0K9Ehi20bH79OFaYBHkcHuOMS0xZJ436.jpg"
+    },
+    {
+      "productId": 63,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/EhTn7Rya9WjmAFpgYVrcsMCgTH7aP4koy3EXHNyL.jpg"
+    },
+    {
+      "productId": 63,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Quf8ngsa3peQjv12whpXXYqqsbGt1wazWl94fpkl.jpg"
+    },
+    {
+      "productId": 63,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/s75FUid2iYaBQ3XRhsbthjJNWmVbFCANik41zWfX.jpg"
+    },
+    {
+      "productId": 63,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/FctjtM6ufrDUGJk8W0PfP6ubLCa0WwRZQD0jsHJP.jpg"
+    },
+    {
+      "productId": 63,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7A3JV4JTX7KErHNjhCRrVURsMY3VTWUKKBqOEcOo.jpg"
+    },
+    {
+      "productId": 63,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/xF6oQrPitBmtDpLLsIKS3mFpPu1zMn2gKxGHFJQm.jpg"
+    },
+    {
+      "productId": 63,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/RoBlGFZ8V5jGe8BTepzNLPryMGmE3kcTgcXqOjZn.jpg"
+    },
+    {
+      "productId": 64,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GQc9r3MvSXsJiMHt8yanavJABdM5O5g0khFKdm19.jpg"
+    },
+    {
+      "productId": 64,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/MpZ8PsyGvsxn8AcnpAnsBfLYucLtWokpfpfEoQXr.jpg"
+    },
+    {
+      "productId": 64,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fzklToCPsucwluQfYqohHNkH931WikbOulQQ3ITZ.jpg"
+    },
+    {
+      "productId": 64,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wD4Y9NGtudp7VByKtjaQnOdoFgqhfKEj5Cb9W23N.jpg"
+    },
+    {
+      "productId": 64,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/WhqmpQ4aLf7HFOBvimFi2XXbLUBEsSMIBObYzYv8.jpg"
+    },
+    {
+      "productId": 64,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/3WgsnQGcsbTiyOlZHXYufmfXi5QmfgtFa3t3MgcI.jpg"
+    },
+    {
+      "productId": 64,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/yM816c6jj7PfyXfAUmu2PAFLv5mS76LpWQLLBPXv.jpg"
+    },
+    {
+      "productId": 64,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/TshypT5wttpo5fYFUQvWz7LSoijMPpxRtoH1E37T.jpg"
+    },
+    {
+      "productId": 68,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/58ef4bbf57cb4937330374db7e54e60e2cef2097/d1b7760e-424e-4eec-b218-3f8ba87a9ed2.jpeg"
+    },
+    {
+      "productId": 68,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/58ef4bbf57cb4937330374db7e54e60e2cef2097/4a49ec96-3497-4884-aac4-7cace27d4003.jpeg"
+    },
+    {
+      "productId": 69,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/V7GE6jdV78lpASwWn9ecGUzUm6sCf6adBIOCkDK3.jpg"
+    },
+    {
+      "productId": 69,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/WiXLrpPzJZNVnyuqHTJyJDBS54EDLgwG2Oy8wI0u.jpg"
+    },
+    {
+      "productId": 69,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/CWDmrvSkxN0rK2izvI4wm0C9zJnsLbbfflSfRRLs.jpg"
+    },
+    {
+      "productId": 69,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/s7rEAPxYCVBlBRSbyh68oqW5rM5HIgnSYuz3HX4q.jpg"
+    },
+    {
+      "productId": 69,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VoL4MPoLbdHaGpL6O3Sn0wDKbBnvZUZ94qgphPdN.jpg"
+    },
+    {
+      "productId": 69,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Fdj5dPzEWZ0yRG4YhnDiJmwB87ehMNV7M58Z18TY.jpg"
+    },
+    {
+      "productId": 69,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/WoaTICTOLBh0zkb995FgFEPX7AtHsaF4w88gUEsq.jpg"
+    },
+    {
+      "productId": 70,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/TvpcCGDfLBMjPUhfK1dKYXxFC5aeIWfVQdflrmBx.jpg"
+    },
+    {
+      "productId": 70,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JSqGcrG0KiZ8vxmQ5FMsSTATuCh73qthu9RV7Epv.jpg"
+    },
+    {
+      "productId": 70,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/RUs4OiKVg3Ihofhzyegay2fvFIslJ5YjI39gWMem.jpg"
+    },
+    {
+      "productId": 70,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/lO36Xta91uDyhR7vq5rtOgrblhxfuCKT0B4ilCDp.jpg"
+    },
+    {
+      "productId": 70,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QxuuVzXvSX0WuTXjMyYZjiPMGhx7rizPekwneUJo.jpg"
+    },
+    {
+      "productId": 70,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sxPp2OhMneIVTt05krJuIO88xFKDEac22szvfUFZ.jpg"
+    },
+    {
+      "productId": 70,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dJ26vFAKpalr5PKcHnB5X1EKoTNnbSTXTWwEgQ62.jpg"
+    },
+    {
+      "productId": 70,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/clAvQyLnuvOhKiQjvabu6w74tXWx9rvlMgraFMAn.jpg"
+    },
+    {
+      "productId": 71,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/q7ZJMWFcZQJEC7BKVxHjcPG6u3wu923eAzQTGyS8.jpg"
+    },
+    {
+      "productId": 71,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/BS1mQSgPDb78DgySQCnVfH1ghaEBdRBy7IMbPed8.jpg"
+    },
+    {
+      "productId": 71,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7kozeVGGHvhIrMZ7npwlrzJYpv1yZSIKWSJU1PG5.jpg"
+    },
+    {
+      "productId": 71,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5rkzc4TMbbsnDdhw7V9R8uN6sD5DbFF5PcpnboQu.jpg"
+    },
+    {
+      "productId": 71,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8YfSO1RJaPAbpbBixNUKMZ5M2IXr3yqlfurwRVRo.jpg"
+    },
+    {
+      "productId": 71,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/jIRCQp8y5gqUPAVINGy9dGUaDaTQYOY2RUIwBocR.jpg"
+    },
+    {
+      "productId": 71,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/DyIZmQk3Ol01WlnzzxBotCQlt96H58d28Y5L42Sc.jpg"
+    },
+    {
+      "productId": 71,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7wreH7pMfv2YWWY12s0yMoxmHerRosfrao9PokO5.jpg"
+    },
+    {
+      "productId": 72,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/tQuCQWtlagqKTQ6pDuMX8VqlYWGpPSduCnJygrV3.jpg"
+    },
+    {
+      "productId": 72,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YhWo0sESqLHFcg6qO0I9OBGzPOyFjL1srqzUs6LP.jpg"
+    },
+    {
+      "productId": 72,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Atb44blWtrdCg5MuprqSt8hV2YP2sWeLJxlmY6Qr.jpg"
+    },
+    {
+      "productId": 72,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VvUtEtDeSfE4w7jiEkj1Zah5JziolnVXbIMYFisl.jpg"
+    },
+    {
+      "productId": 72,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JZcmsm5rWjtkDM3JlPLDGzQQA7wmidgg5R9lXY7a.jpg"
+    },
+    {
+      "productId": 72,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UvRFiyOZ51mCWzvPi23HLmZqNi0aOobUqVmpCOPt.jpg"
+    },
+    {
+      "productId": 72,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hOTVp6jcGAJMgIXEAXQIagWTdR3bTjIeWHA7FSfq.jpg"
+    },
+    {
+      "productId": 72,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5ut9Inq5EHaUSaSqdi1qBZq9O2qMJ2gdrArEWX8z.jpg"
+    },
+    {
+      "productId": 73,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/r0ICOCESie8oPlgGfBGRMS9ys7gqZ9rmM75L8hLW.jpg"
+    },
+    {
+      "productId": 73,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7M5ALsZHFP7s3YL5QV8Mek5B5FJl6PorGkiavOor.jpg"
+    },
+    {
+      "productId": 73,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ysEkIleDdXQDCkaV6SC67da0zF3Mptzae74uKCeG.jpg"
+    },
+    {
+      "productId": 73,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7Kn3GcwSnVLTr2Lm4rjaSgfekApk7QHZwSkoE8hO.jpg"
+    },
+    {
+      "productId": 73,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/u1SiW1oMnc0BI7IqgAMAszMzFCcb1hOnI6dEeiAo.jpg"
+    },
+    {
+      "productId": 73,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sWkZE6AyxceetQsuanqQW88dy5AmRDApM9uu96xH.jpg"
+    },
+    {
+      "productId": 73,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/n9c3yG78oKuBqvjEhkPhLRLB3QLS0km5gNeFDLae.jpg"
+    },
+    {
+      "productId": 73,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/BM4aLZm1mCyWaIJrJvvRVaSI2wMcJYCuKTqtrcPM.jpg"
+    },
+    {
+      "productId": 74,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/T0M97VPwgXcQzUWid9hwNovPEJiZEIgtTtD8ItS1.jpg"
+    },
+    {
+      "productId": 74,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/PY8KAS49eoUok4WARVsvayHKgVGCPCbhkUmYhNol.jpg"
+    },
+    {
+      "productId": 74,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/aOR5zg1Mfb7jpXbmaJlsYRbWvhEJZU6We392ke0A.jpg"
+    },
+    {
+      "productId": 74,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/6Qj5TqWKlmglIlLpwb338a5MQYYle5TGqPEAV0TN.jpg"
+    },
+    {
+      "productId": 74,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Z5jLbGzPVKgn3qmfM6sCOhQuLR9DeHoKcqgXEWZW.jpg"
+    },
+    {
+      "productId": 74,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/eiOKorthPC3mQIOjLvROdH23rNavI7H8uK96JfAI.jpg"
+    },
+    {
+      "productId": 74,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/e25WZUrzvlScGnHCH3tGmm3aA3zocIwyge93Bapi.jpg"
+    },
+    {
+      "productId": 74,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wUNVvlcEWhI7Nhb79a1IEtLvDMeDZlxr8UENUy2P.jpg"
+    },
+    {
+      "productId": 75,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/WmkueHwd6kKEr95cNfjUwCxiKOPT3LknlXoYOgOa.jpg"
+    },
+    {
+      "productId": 75,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9APKnLAZt2IaxRl3jwUcu3H6l7QNVMfAV5lljpUi.jpg"
+    },
+    {
+      "productId": 75,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/3OnPqAsQA2ckPT5KsWB6eB8ElJJoRLU1qxXtATFu.jpg"
+    },
+    {
+      "productId": 75,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7DCNM1wFmqbogcty7uqilje32LM53W8lC0SnfE3c.jpg"
+    },
+    {
+      "productId": 75,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vPTkushlMNYqPlxodJQf6mhPs64A9J8Fplq7z61D.jpg"
+    },
+    {
+      "productId": 75,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/1vdCZFhnAZf6kBVesLmZt4qz8gfH8PRkww1d8rOG.jpg"
+    },
+    {
+      "productId": 75,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/p9bV0BrI2ozTZjkEMDeK5iwxWIi4ACXi2wB8wUM3.jpg"
+    },
+    {
+      "productId": 75,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AHoQzZU69t63oczTutymHj6XQ7IBpPa1YI8ir4VV.jpg"
+    },
+    {
+      "productId": 76,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9XpLZ2Cen7rWZLVqUirGa9yIjM4tRjb38K3MxUqL.jpg"
+    },
+    {
+      "productId": 76,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/TDh7jyeplAWjKyUe3CO8UB79wcx4pnh3h9S8hxir.jpg"
+    },
+    {
+      "productId": 76,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YuNaptQBMeKiTlVfKc1E1itpxSPhM5gLKEIEBMnc.jpg"
+    },
+    {
+      "productId": 76,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JC0NuqwoKzKhRaeLQmPtQYYtfynp5oBsh2rZexFw.jpg"
+    },
+    {
+      "productId": 76,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/PqFpSrEqrbtjA0TZPalqYkbSH2oodRaILLvS3Wve.jpg"
+    },
+    {
+      "productId": 76,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rxCuHM7K8KKJhytpBu5NDGVPpo2mK2pwKAxFQGX4.jpg"
+    },
+    {
+      "productId": 76,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/zbzLEicuvv6JYnvIu7I8brHK5ypJGWYQQHLSLGpY.jpg"
+    },
+    {
+      "productId": 76,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5jkWwPeAA8yYJfWAk7RoQb97iAns6OnaUamtLSTm.jpg"
+    },
+    {
+      "productId": 77,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hp803S24dTco4OgI3K4QX5KrPvqZg3drWU3Phi48.jpg"
+    },
+    {
+      "productId": 77,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rwSHmtmCDSI019ZMza4AiiQhCialjcJQU5tVI6c8.jpg"
+    },
+    {
+      "productId": 77,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UaVGDcmI3InZZYqpTgUZodKQFO09lPXRNJaXMn6Z.jpg"
+    },
+    {
+      "productId": 77,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/K2zr5MpBKhUg80Pi01PJJyL47t7pVb1FAfyZbGbu.jpg"
+    },
+    {
+      "productId": 77,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/znZCt65Zmwe9Gq9xStBJlm8hLm7lD7XHQuIFnZ2n.jpg"
+    },
+    {
+      "productId": 77,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/x7zw2dDV8KXuwVOLBC6ZWGywX7YurvvV2Mj6jWMw.jpg"
+    },
+    {
+      "productId": 77,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ym5QHmx1Bv8UuMQ4inv0mKSw88zdvZ9cIVxVV3Xf.jpg"
+    },
+    {
+      "productId": 77,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/WAXpYXxYLixXWH0DD0gxR6lFhPNDljh1rQY0ADkL.jpg"
+    },
+    {
+      "productId": 78,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cWBMSCnkDkG0AJN7DVHeJyh5yR4Q7e9JdCQRQPbk.jpg"
+    },
+    {
+      "productId": 78,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/RDWhHvF71jZ7s9JA5YckNVxc9OdHNxABbSaiZqYs.jpg"
+    },
+    {
+      "productId": 78,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GpZgkm6s0lk6iaa4LIAAQV4kFoaL7P6EAbOnU1hD.jpg"
+    },
+    {
+      "productId": 78,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/F8hZnHINARMBXeknl0RBtEQXTpIb0t0P7jvtpqgC.jpg"
+    },
+    {
+      "productId": 78,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HM6II2jpVjFsW2inblG7W5m2O4dntdGUxKzlofGn.jpg"
+    },
+    {
+      "productId": 78,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LmTPtMPmydCTajW76mWQbYU8myGZiFSgC1Nv5X8n.jpg"
+    },
+    {
+      "productId": 78,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/N6dEkjTfl1XD7bLQXD8PR1nT0k0oT2s2uy9ooSSp.jpg"
+    },
+    {
+      "productId": 78,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/IpIMpFfmZXTa2lKhaaQv2dirV6fgfTbuuQ3lXrrX.jpg"
+    },
+    {
+      "productId": 79,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2Wg2tFi0Jqj6phnl6xB6m9Dg53cy6kayF45esMAI.jpg"
+    },
+    {
+      "productId": 79,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/j2tJ0UJ0qvlfXlxMmN5imFad6hIh81xq520d5eEY.jpg"
+    },
+    {
+      "productId": 79,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/IHFcfxSnSZ6ncbT8qXDAcrLgVuuoSXIBtuxua1gR.jpg"
+    },
+    {
+      "productId": 79,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LebobQ32dqqmmIrEJM7HIhcsBWXHO7jevWseGf7d.jpg"
+    },
+    {
+      "productId": 79,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bzFCnxxGiLWpDrb8zWlCpgjUHyXr29EwsdrdPM0w.jpg"
+    },
+    {
+      "productId": 79,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HAK7rIJcX6pAHOpjGlTYuyiBpvI4k7BpNdYDIKRt.jpg"
+    },
+    {
+      "productId": 79,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/MCCHJm2rwudbeRcDjZmQ1LpOVxFCAQFnNSviQlPg.jpg"
+    },
+    {
+      "productId": 79,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cvCRku7d1vhAbQyiYsfZYpFA20Nh8L0F5dLkYwFT.jpg"
+    },
+    {
+      "productId": 80,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vTCOXAJHg15H7uhPl1Manen4jlgLPydItz9rtt5m.jpg"
+    },
+    {
+      "productId": 80,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ytEIArDh2iffA1SzDHISFb82iwD3WQ6uQV82lug1.jpg"
+    },
+    {
+      "productId": 80,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/4wELDky9bQvs3jjiMLM7OAQczZiDP4YL1ktvGuC6.jpg"
+    },
+    {
+      "productId": 80,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HIGbU7OA9axvARREBzfmbL2Y5x6mj4HohSImFjcE.jpg"
+    },
+    {
+      "productId": 80,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/xjR1aKFOzObuAxLUJcjL1qzMZe7vAR8uzu6R6ydd.jpg"
+    },
+    {
+      "productId": 80,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LsLZjc8ks9DzAcJXcOg4sY7taa4FcJg57so9wM9i.jpg"
+    },
+    {
+      "productId": 80,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2rNtomRq3StFAOhjhx1nzWocxxCOUQrNdujoddnJ.jpg"
+    },
+    {
+      "productId": 80,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JWPN1vAplXgOqmdoBJSNMWq1HvcYZTMyuQOTkfvN.jpg"
+    },
+    {
+      "productId": 81,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NBU6wJWogB0ERfw2ZQu5rXcLGo2cDjifIAynpGLA.jpg"
+    },
+    {
+      "productId": 81,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YiXD5h3pH77fCCcIqLLG7JfzrLPhGDvbdQBIrrz1.jpg"
+    },
+    {
+      "productId": 81,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sCjiJSUisglR7mSyJ3XqEh9NLovNeYVN3AZObxR5.jpg"
+    },
+    {
+      "productId": 81,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/lQ5OEKTZS6cpWVHeycaAKieuwNlqJwpO6AmXyUzz.jpg"
+    },
+    {
+      "productId": 81,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ynB5JFfFREhBJPIU34sT8m4nHanhdgkdRTGS1fxj.jpg"
+    },
+    {
+      "productId": 81,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/uQvysBF0JdRn461rJH4zTHPCoCQTM9FpzUYmSf42.jpg"
+    },
+    {
+      "productId": 81,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9bqA0q7TBEZtBx67RfzkGrxGJgL4qHlTKMNqtOCG.jpg"
+    },
+    {
+      "productId": 81,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OYpHhufWteFjxnbyyZNFxz9fIJy4leUJqzyg0RfE.jpg"
+    },
+    {
+      "productId": 82,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/snmGBb2UfL3DIN8t8fb4i9kt4fJFnR7zbNzPONiH.jpg"
+    },
+    {
+      "productId": 82,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/eTvPG8Uo76gKsD6GUAYtvkxo3yAAgfgU5BkypPZH.jpg"
+    },
+    {
+      "productId": 82,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/eHSdIy1dWYQJovBzV8aBQcSdaYQxdpkkAZm67IAY.jpg"
+    },
+    {
+      "productId": 82,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bBELBRlKj97u1iT96LxlWRsTiGbOYMQiVxOz68Lf.jpg"
+    },
+    {
+      "productId": 82,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/q7p1o4NSuzqpcaNHELRKJ5QrQZFuAtE0CkeOb7Mh.jpg"
+    },
+    {
+      "productId": 82,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/xGiXnZWrHQF0gQCeDY2ENCOFrbakbkza5UWqGOGx.jpg"
+    },
+    {
+      "productId": 82,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9i6hQAuS9s4TR01UMcS5FuJ0yUPwSApoP96UN3Zl.jpg"
+    },
+    {
+      "productId": 82,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QllikfJc7DPppQAHycCfE0kOwdbWkgPJBq2Vc4t8.jpg"
+    },
+    {
+      "productId": 83,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/r8wzNjXMUn44SGVRmSrXh5uA5FfAwJJnw2Th4Lj2.jpg"
+    },
+    {
+      "productId": 83,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/lmYF7RUgxbsbPeyuwxgXQqajBPrHpqq3H7xrJ3gC.jpg"
+    },
+    {
+      "productId": 83,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dmdd1BUGSyPC4pMMiec8iqAIP8qjPMfF17eFHJEs.jpg"
+    },
+    {
+      "productId": 83,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UNlQ89NUZt6ZKiAOp9w1nF1nQxCpoN9jMCbBoYUg.jpg"
+    },
+    {
+      "productId": 83,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/aYmiBkdLWoiSZax4C5jgdWiQsHXRmjansUbcyAmb.jpg"
+    },
+    {
+      "productId": 83,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wnJWrfn3yZBi8zjvG2KejImgZ1spK7ACvegsyRix.jpg"
+    },
+    {
+      "productId": 83,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Ogz0m1lTlJVYC43bR6O1zRaGH9aSatcEP7b37jwf.jpg"
+    },
+    {
+      "productId": 83,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/XiYBWXyFXH5MMSakf8ZiHMyJFyOKahbobdOmtJEJ.jpg"
+    },
+    {
+      "productId": 84,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/YRUHpwtWnhvL6mb0UBOxvaq98duQu55counhT7HD.jpg"
+    },
+    {
+      "productId": 84,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VjvHf0b1wC3k1okIuqdTVr6G9TYa4VxzzKM4oxCK.jpg"
+    },
+    {
+      "productId": 84,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ltwJ72pdlUTNtVQQJFndnqgCKrGtK3IzdZDrq04j.jpg"
+    },
+    {
+      "productId": 84,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/i0PyLG58LcXnCjRwRsmI5wwUuIeGMp8Fy7LHR48f.jpg"
+    },
+    {
+      "productId": 84,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/aJkXZwt0EjUtxxcYmoAS580PYVjrQJyp3H7x4ngG.jpg"
+    },
+    {
+      "productId": 84,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/a0OSeJIoRM9l4gnFfr0xN2cXv3T0QblFQ4zLSNhc.jpg"
+    },
+    {
+      "productId": 84,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fcu2fFz8zhQsPi1kxelVuxymYOcCmuKKZpJOAos8.jpg"
+    },
+    {
+      "productId": 84,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Vr9cGY6DYF2ZAQTXbjLlL12OPHzCSRQbL8NEJm7X.jpg"
+    },
+    {
+      "productId": 85,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/j1muj3SNFNwSKaBOBhBYDdMvItcpIVkyLdQbn8U4.jpg"
+    },
+    {
+      "productId": 85,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/NQs8pcZbeeF0qSxh01YCMjJDi54rPAce7WHU8gj1.jpg"
+    },
+    {
+      "productId": 85,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bci8hKkCMU7BCUTVpmOMk3j3jpxmkWdLKPf2lmFw.jpg"
+    },
+    {
+      "productId": 85,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/6Wnl0jrWknsLc6bUIneehwKw18rgyUN4w6RIoXQX.jpg"
+    },
+    {
+      "productId": 85,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Q8hhv7nkclAOsrHOUCtGHFcRvHipdXS4jqbNPSMP.jpg"
+    },
+    {
+      "productId": 85,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/1KjCLQ7WPj6Lf14qWZFHwFar5TwEapxNcjuRpAAi.jpg"
+    },
+    {
+      "productId": 85,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kUUr7mFud99UQ0rCS6cd6F31AsA8s6Zm9O9oLpDW.jpg"
+    },
+    {
+      "productId": 85,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/r1gd4HX1DiW9xOJulL7qVwuZHQ1xZHxmTLHjLyZM.jpg"
+    },
+    {
+      "productId": 86,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/4x3pWfU7LRdvFdd0MDQ1SPfMTgSNXaltiuPJup0o.jpg"
+    },
+    {
+      "productId": 86,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Uzio3WJ0aONIJFaFwBBvFu7urgKAPYyRVMYw5Rgk.jpg"
+    },
+    {
+      "productId": 86,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/7ZKKKQI9vjTDaoe1Hs1FmXON1Oo3QvT0xrJXCLvM.jpg"
+    },
+    {
+      "productId": 86,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Xy6rbBuXsWXU9FhrxAPaK6Wxg4xs9hZPOoPtLYIP.jpg"
+    },
+    {
+      "productId": 86,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/XyplgK9boWBqkSDLDcFXTuVjsmpsyss7zpV1HZXM.jpg"
+    },
+    {
+      "productId": 87,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/nkNrQPneYjUZ3tmOvs7spFEvB6zujlpduD3bMNDG.jpg"
+    },
+    {
+      "productId": 87,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5G1P0FlTgirO8jvWAYfJibMph1GY24iSh0HfWfrT.jpg"
+    },
+    {
+      "productId": 87,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/MUlL52R8i7RQXSvyJESh7HWlVADmZYCHoZRlvZOE.jpg"
+    },
+    {
+      "productId": 87,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Q7vYZNuJsB5KHvGNcQ1wGJp2WJyPWGSgPQql9K1P.jpg"
+    },
+    {
+      "productId": 87,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/SlxIOrHUR3oEJe0JZQb6lQqsqjrRI7btZ8cssxuA.jpg"
+    },
+    {
+      "productId": 88,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OB0jTpGlgWvZ1sgLZrQaExHcCXGgPWRcsjc0hOkP.jpg"
+    },
+    {
+      "productId": 88,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OcX1n1WvNYcalai9RuhsnvsNyjCEjM4ghCgPYjoz.jpg"
+    },
+    {
+      "productId": 88,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8qiH382n1hIH1kQPlMmtd7IaQCnwRJurKle1Ofnu.jpg"
+    },
+    {
+      "productId": 88,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/aKQ4ePnrelgjYGXrCUeV5IkMOqAU9BDqacJfaZFt.jpg"
+    },
+    {
+      "productId": 88,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/PmcF8jsA7BoqBM6hYb91Dl5RJIZe6hYXtAulaDxY.jpg"
+    },
+    {
+      "productId": 89,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Y7LDliOqhYQIgjEZ31SCbtUDIRi8ApCK3n7PfY5y.jpg"
+    },
+    {
+      "productId": 89,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fQ2i0hBxJGC0GbRJZtP1IASXFy98OOKNukf7vpo9.JPG"
+    },
+    {
+      "productId": 89,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/eP85LN5qhqN3vqKUgsgAxgl4KszQXv7nnn9ec6ex.JPG"
+    },
+    {
+      "productId": 89,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LNwY1t4GimzrslJnDHun91OjTRyyAjV3emHZmWqn.JPG"
+    },
+    {
+      "productId": 89,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/VFXVcBevHlG4Hn5rjAYV3TRjiulhkp5huNPlj3ys.JPG"
+    },
+    {
+      "productId": 89,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GjKo6rJ55TA0kr2Oc7TIpuBfXQ0geeqZVIKIKIGi.jpg"
+    },
+    {
+      "productId": 90,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/uj0Nn8vfnqX08XV0MQYMCtTrj44PkzGwyqOu6Sph.JPG"
+    },
+    {
+      "productId": 90,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/MVBzMw8db7N2wIPmheRqpCAP3OYFMH9n0m196XBT.JPG"
+    },
+    {
+      "productId": 90,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/FTwFI3G1T8vxRwa740MQMIpb1ovivObsmxD7hmZG.jpg"
+    },
+    {
+      "productId": 90,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Q85LH1AgpAZTDWWNBSe13Xe4NLFJMeNLoaql8ac7.jpg"
+    },
+    {
+      "productId": 90,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/yvRMKS5Dc9jLuyDWBt7xKYWjsjAUAdtVlaPZ8W1Y.JPG"
+    },
+    {
+      "productId": 90,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hhYifBMcCnz08hyWITyzwV7jtwdQCBIKQ2CnggVM.jpg"
+    },
+    {
+      "productId": 91,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/n4evBwLFbHfBfJ88UnztEoIDjUXvf5qgk0NAjQnu.jpg"
+    },
+    {
+      "productId": 91,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/9v0nMDS1hNWapMuJO7xQGUeCN2jN5IKx69OP1oDA.JPG"
+    },
+    {
+      "productId": 91,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UNMpNqRG5ruqgXryEnPj3UD2U7mAx2pTmZa3MtjI.JPG"
+    },
+    {
+      "productId": 91,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/5m2WFFtzUZUjtwiQliTaP68XPhiaeOHIuUWMcTEv.jpg"
+    },
+    {
+      "productId": 91,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ZSEmnvNygZ7Iyt0pL5d80fqkzpa0pPuFEmQabYA4.JPG"
+    },
+    {
+      "productId": 91,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AxGBkx8i8ltz7jNlGreDzmFIZ6Z5IrdQzNQzO0Cd.jpg"
+    },
+    {
+      "productId": 92,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fqAF7LnZyXsZUqmYCiZVohEsEnMQV2lBmFeP8JBG.JPG"
+    },
+    {
+      "productId": 92,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/qTk9Yq2bXO5bOYwoG4unLccOO5pH3AfMpTEhv2CL.JPG"
+    },
+    {
+      "productId": 92,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kLi8sZoRoydeJcBKy3pfFSU2kLXZiNibvF5Ak2Kj.jpg"
+    },
+    {
+      "productId": 92,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sbz1omYoggL39Nh7MOpuStvEoWYgg5VK6hR1AsiN.JPG"
+    },
+    {
+      "productId": 92,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/mXdMuJOdfWESIiQzOKfMZDVRIZhYpyPS4kb6P1Oq.JPG"
+    },
+    {
+      "productId": 92,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AhDPMZoCL3GlY75cOGS6wrxLn8623dJ6GamFiiko.jpg"
+    },
+    {
+      "productId": 95,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/pdM0chP1xAKLZ2mDMApjV0LKEMVPX28L8MImGvla.JPG"
+    },
+    {
+      "productId": 95,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hQXbcRVQdvGFAk2vEinO6yQYYHcPSGFxHDrhgP7L.JPG"
+    },
+    {
+      "productId": 95,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sqqjZnAf4ct3ATVqedFLP72tfNujx5h5gKbKmhO0.JPG"
+    },
+    {
+      "productId": 95,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0aslFG7Buuc8UAflg1BrRmbcQk002Nu3OrCIucpM.JPG"
+    },
+    {
+      "productId": 95,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Z4Lv8ZhdkIEY0twMDgAGSj8nIRJ09yUeeZbVtxny.jpg"
+    },
+    {
+      "productId": 96,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Vk1UkIe4R8OeFiKfmOduxFgWcmdBL4RJpQsf3Iau.JPG"
+    },
+    {
+      "productId": 96,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ZVdBgUpuuAwMOPcm0LQaY6BdP36HTVvyuqryWVbg.JPG"
+    },
+    {
+      "productId": 96,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cxBN9XKUiuJ9COtNX0dxrdWdqrmJJKG62TsBrAGl.JPG"
+    },
+    {
+      "productId": 96,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/BhFhs2vLnpKkdu32XPT9j3ByYDD9H5fLTHp0FgMF.JPG"
+    },
+    {
+      "productId": 96,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Xv43lZ4wkHaNN97FUusB2Y5tyGRZsoCHmjBx837G.JPG"
+    },
+    {
+      "productId": 96,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/pSqrOwkzeSkUTV4X1JBLY7gfn4HdLCFqhEzPRpZj.jpg"
+    },
+    {
+      "productId": 97,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/dYbMj9IlG5ltqbmwmOGcnhf3ZNK6L0jVY18BHzlN.JPG"
+    },
+    {
+      "productId": 97,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/KAPz2BKFGaNofcU33q0ZdlBCE0eOGqR5RHgvLqkY.JPG"
+    },
+    {
+      "productId": 97,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GN8JSDMaoTBUGIOrzDMecn69Jb0AkdP0q1TjRePS.JPG"
+    },
+    {
+      "productId": 97,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/GjYR8dAmg2JVdE4uiT9nW4dHeDdoSnraUEtFC3gK.JPG"
+    },
+    {
+      "productId": 97,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/mE7depYeBOAN45cmQhxKbMQkXm7nXBFBpWxTfccK.jpg"
+    },
+    {
+      "productId": 98,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/a3uS6nCNqAR0iwMBNRQ9vY2lR7neq6Q5rLKsmzNo.JPG"
+    },
+    {
+      "productId": 98,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/xTkCwwgBGFAtXUOi4XDjQFQ8gUmhUTnoeJvKVg4V.JPG"
+    },
+    {
+      "productId": 98,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2RllkkMl32xcT8eE0wQH3j1qJ1kLy9ZtQFiUKEgx.JPG"
+    },
+    {
+      "productId": 98,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/oMI1thHvuXGlW7ZiVHaXLO54QwPP6LHdEUDgHowy.JPG"
+    },
+    {
+      "productId": 98,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/HrXETRjeZXrEMg0KNNNasKjx7WZkhGOQESAT0skF.JPG"
+    },
+    {
+      "productId": 98,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/LMIB59JlKhCu86xrW9VPfCqkLRjc03LIwjqUo8PR.jpg"
+    },
+    {
+      "productId": 99,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hViELZ08WSTi4nvHaORyJjSapOAyAefOgCFnQzha.JPG"
+    },
+    {
+      "productId": 99,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/FCtdITyixpkryMcHPsbRlPvaQSMDaLroigX1nVMh.JPG"
+    },
+    {
+      "productId": 99,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AvZgwEccBFFqzgXRyYGuZzCaBXtnGzehx5VVHq5A.JPG"
+    },
+    {
+      "productId": 99,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/ISQURvb0feBJCT36wVzFowfBEfPMsFz2p3fvFGCU.JPG"
+    },
+    {
+      "productId": 99,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/rNLtJb5spRf5UqwG8qF5wIaqOQIEEEphHgMWNBx0.JPG"
+    },
+    {
+      "productId": 99,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/beyhEyP2ezcFz2yOMxnUNaTer00cZ2Y5RmDHHXw5.jpg"
+    },
+    {
+      "productId": 100,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/DzE40qH6RU3rApVJRlcr8WNd2F2RkZO9SlnemuAx.JPG"
+    },
+    {
+      "productId": 100,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/gDYWK0HMB07PzYsNbrR5t2LjRhLhLr3DfC1R3fJc.JPG"
+    },
+    {
+      "productId": 100,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/41dhkF9jFhYRF6caBAIfMYcQCdMjubFrfXB9bWE2.JPG"
+    },
+    {
+      "productId": 100,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fxL4tVXBXJSPC04JniulCfA7httIrLpVJmgA4ZSZ.JPG"
+    },
+    {
+      "productId": 100,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Wm5qOx4KXco5daYyY3lkxdYm0BoNUwyhfHLpjbMC.JPG"
+    },
+    {
+      "productId": 100,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Sm0v11r1tjjtiCQkod785oujpoeXHXKkszgoLXfP.jpg"
+    },
+    {
+      "productId": 101,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hYzMCTlkbtDZSRZ7CcEavBDbzAyEqJt7GLVcvzhp.JPG"
+    },
+    {
+      "productId": 101,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/2ng2KKxQMCNkoJAcCAKzdLfRm7C9GvBC44iy3oEZ.JPG"
+    },
+    {
+      "productId": 101,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/0RQT9nI2tuhuTuPdv7TNnQOKDBi8MwiogRZojOzJ.JPG"
+    },
+    {
+      "productId": 101,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Zvzho6gHnDZg4jr4moyM6vqLcECYSSWIWfVXJUez.JPG"
+    },
+    {
+      "productId": 101,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vCd5jKtwPGtrepi1YJJ7MNJUQqjYVTruT33LKMaA.JPG"
+    },
+    {
+      "productId": 101,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/EOTcjaXoYmIrlgzljg2ve8mt0CeE9rVXVGufhWZi.jpg"
+    },
+    {
+      "productId": 102,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/cl3SXMfWvnxbD4QpSCRqs8HECBZ1Sd9MGcxQ7s08.jpg"
+    },
+    {
+      "productId": 102,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/MugQv5ltmLv2m7fejNlqShFn5KxAfxrH0BPZ2Zjm.jpg"
+    },
+    {
+      "productId": 102,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/DHTfuBs8aKwuPhj5h4U7KCWqgr7uGDJaoRCLzJYD.jpg"
+    },
+    {
+      "productId": 102,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/vXboco0JsAQGBC4EOJFGlmeI04poj0NwgxpadzxY.jpg"
+    },
+    {
+      "productId": 102,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/um8AmA1Cc5PIXu2g1rx8DdTHyfTUdwzKcLqenmZz.jpg"
+    },
+    {
+      "productId": 102,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/pLQKvGkFoUd5LEKgoVdNAfJkCwFmACph7jw8UujU.jpg"
+    },
+    {
+      "productId": 103,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/zSkwSDSXV7aDQUxE9V4fS5oYKnxzGVQTc1P6Pkkb.jpg"
+    },
+    {
+      "productId": 103,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kbyHOmOORDxHnVUEhpgBMulr6R4Ttje2Q1mxBCIc.jpg"
+    },
+    {
+      "productId": 103,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/eeeIHmVOClUcliZF6sGXQ6j0NetOh6xVFQJL6hfv.jpg"
+    },
+    {
+      "productId": 103,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8NFTkhDWq6AGyj45k4NciQby95ujEY6jpWb1fXLW.jpg"
+    },
+    {
+      "productId": 103,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/UcWTeou5zYmtAYhbBg40rv3b4nmCEOa7XMGnsPYF.jpg"
+    },
+    {
+      "productId": 104,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Y3q1NMFgmoCvqYkuiWck6i78yzDUS7mhoy0Iiivl.jpg"
+    },
+    {
+      "productId": 104,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/IUNyfLJjzGOuj0ADIaZQs6Nk7FyoexwBrd1rrPw5.jpg"
+    },
+    {
+      "productId": 104,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sVWTBBezogZpUbuVoRG92sPUGMNAxcMM3azFrbMs.jpg"
+    },
+    {
+      "productId": 104,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/JAUrwrAdD97vovfHxcXDl62RoswYdI2tHadJegiw.jpg"
+    },
+    {
+      "productId": 104,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/OrzuDXlNUJzGt3Tf7oDQEelm7z1cXlYmvhVC4OkA.jpg"
+    },
+    {
+      "productId": 105,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Uh0R54OokYul7apnflPsh84nK4UJDyycvATO7ihn.jpg"
+    },
+    {
+      "productId": 105,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hSu8tBVZI8tCWIZaCK0oHkB68uZqfB54HoxdYKXb.jpg"
+    },
+    {
+      "productId": 105,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/6K48wIWCrSNXQSkvMTVvFx8ivxcLrxXddB5ee2im.jpg"
+    },
+    {
+      "productId": 105,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wePncMlayPmqVeK4p1GnAaCHstcqatH4j76eZ5oq.jpg"
+    },
+    {
+      "productId": 105,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fNGxhfvnRl5E70BAKTLe6pLVDmSWn29WMpF9OyN4.jpg"
+    },
+    {
+      "productId": 106,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/tQAgzohEMqCxkGhkgxs3pWTfLaOQreLLAy4QFaxr.JPG"
+    },
+    {
+      "productId": 106,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/eCvPEXQxLiliHF8ikHDyIQuCKWzLxBeeKLnc5GNn.jpg"
+    },
+    {
+      "productId": 106,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/sbvyN4pUc5BsHtA70BOwQM5m3xkUEXU9RhQj1ISo.jpg"
+    },
+    {
+      "productId": 107,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/wWruCn1zN62QOjur22NLxTyZHELdPs9xurAzqbLc.JPG"
+    },
+    {
+      "productId": 107,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/QgPb6wDeX6ZTgWt1DRvL6PFL0fbmaO2fCq4mJYG9.jpg"
+    },
+    {
+      "productId": 107,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/hdQAeTXKVF6xpbwTmEVt9yZS6WGmSkc9dLMYqMi6.jpg"
+    },
+    {
+      "productId": 108,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/bAzbrxfS9ckOgXxbcXeyWOVky8NtfQ0ZJrGJy5Yx.JPG"
+    },
+    {
+      "productId": 108,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Oc5qifw9Y5FDqRqqak13MGIfUI8uAg4FFsV7Djjn.jpg"
+    },
+    {
+      "productId": 108,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/m5k1lasPJaWMpI9m4QGeQioIo3cgSDXm6vy9G3YG.jpg"
+    },
+    {
+      "productId": 109,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/AlvN623pmdPBrFNcDYHFTrRdnLBg1ZDQNvJATZtG.JPG"
+    },
+    {
+      "productId": 109,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/RcqCfNiDNGkVoVdxsnnkKmNeTUNnwCRQHPdOQd6S.jpg"
+    },
+    {
+      "productId": 109,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/F9QyKoaaCs3udydGepzw1RW1HBGQXpUWSpl8sNZ7.jpg"
+    },
+    {
+      "productId": 110,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Ot5mJaKTR9FkZdlqYaI7PQAaRgNhYMvw2ihYzDUJ.JPG"
+    },
+    {
+      "productId": 110,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/tsYxC6bPoxlEy6XUV8gunaBbzSF7SoUqsiwlJuX2.jpg"
+    },
+    {
+      "productId": 110,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/B69E3ZqpJKwd0TD8yKAIzsSNNDu3DEDO4IDK1Zmq.jpg"
+    },
+    {
+      "productId": 111,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/b5e372409c8fbb00a5ced11945e1c4b5ff5a1269/15924594-4898-4e1e-9501-fbb26a42ed03.jpeg"
+    },
+    {
+      "productId": 111,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/b5e372409c8fbb00a5ced11945e1c4b5ff5a1269/8cd8cb6d-9ba5-4377-8a18-70863fc6f1ad.jpeg"
+    },
+    {
+      "productId": 111,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/b5e372409c8fbb00a5ced11945e1c4b5ff5a1269/cc092ee8-3985-4b15-9ccb-150071919e13.jpeg"
+    },
+    {
+      "productId": 112,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/FfRu3H0OLuwvYpU9bDZudZg6URbPC2ReXEojOCHw.jpg"
+    },
+    {
+      "productId": 112,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/A46Z52eqxgdv0nwnQH0PCx9cZkMGmGtsgmKLs3TF.jpg"
+    },
+    {
+      "productId": 112,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/6qPxc2wZjp3PDQ15875289pJWO5DUPU60YgC0GT9.jpg"
+    },
+    {
+      "productId": 113,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/8G3W4qK4erDD7HU0S6xJEihRjEJEZZNmg9KEJDdd.jpg"
+    },
+    {
+      "productId": 113,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/jpY7c4tD6zE1FJa1Uz4hQOchGgp8ZZ0Q3hHqiRBL.jpg"
+    },
+    {
+      "productId": 113,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/Q8dsSmyHh3zGxijVl20JKR7H9HwyqlrCyRRVrDxL.jpg"
+    },
+    {
+      "productId": 114,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/H5GD6YzKACR8pytr10VEvZ5DwNNjPmXghkaaPfNK.jpg"
+    },
+    {
+      "productId": 114,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/kJVe1s6X86f44D5ErLM2N8qURXO0yjvIj50L2sXU.jpg"
+    },
+    {
+      "productId": 114,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/6cfbd8f340e67cf8791d7a638b91df80f4c2ef7e/fv1UcplvgTJhfA0oDx8EYvJQwTpJASYeuxOTPMx0.jpg"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/8a4f2a093ef40e6d317f1f5d7a2e0ed84e0c2486/f06f884d-f231-4f15-9a1e-1a94390a9c20.jpeg"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/8a4f2a093ef40e6d317f1f5d7a2e0ed84e0c2486/f06f884d-f231-4f15-9a1e-1a94390a9c20.jpeg"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/f521b4db5972d8fdbac505a96750f34d7e1a2362/4185f6b8-0e2d-4fd3-b63d-7634875f2d28.png"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/f521b4db5972d8fdbac505a96750f34d7e1a2362/006b332b-244a-4303-9108-5a20f6d5f89c.png"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/f521b4db5972d8fdbac505a96750f34d7e1a2362/006b332b-244a-4303-9108-5a20f6d5f89c.png"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/f521b4db5972d8fdbac505a96750f34d7e1a2362/006b332b-244a-4303-9108-5a20f6d5f89c.png"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8a4f2a093ef40e6d317f1f5d7a2e0ed84e0c2486/a893d35c-cb22-4173-9395-f30a7271f95d.jpeg"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8a4f2a093ef40e6d317f1f5d7a2e0ed84e0c2486/a893d35c-cb22-4173-9395-f30a7271f95d.jpeg"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8a4f2a093ef40e6d317f1f5d7a2e0ed84e0c2486/a893d35c-cb22-4173-9395-f30a7271f95d.jpeg"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8a4f2a093ef40e6d317f1f5d7a2e0ed84e0c2486/a893d35c-cb22-4173-9395-f30a7271f95d.jpeg"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8a4f2a093ef40e6d317f1f5d7a2e0ed84e0c2486/a893d35c-cb22-4173-9395-f30a7271f95d.jpeg"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/f521b4db5972d8fdbac505a96750f34d7e1a2362/006b332b-244a-4303-9108-5a20f6d5f89c.png"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/f521b4db5972d8fdbac505a96750f34d7e1a2362/006b332b-244a-4303-9108-5a20f6d5f89c.png"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/f521b4db5972d8fdbac505a96750f34d7e1a2362/006b332b-244a-4303-9108-5a20f6d5f89c.png"
+    },
+    {
+      "productId": 115,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/f521b4db5972d8fdbac505a96750f34d7e1a2362/006b332b-244a-4303-9108-5a20f6d5f89c.png"
+    },
+    {
+      "productId": 116,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/8d34f3e344bf600d84b08f9108ede79af5c81c91/9345bc3c-2463-4952-b270-a373959fc10a.jpg"
+    },
+    {
+      "productId": 116,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/8d34f3e344bf600d84b08f9108ede79af5c81c91/9345bc3c-2463-4952-b270-a373959fc10a.jpg"
+    },
+    {
+      "productId": 116,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/8d34f3e344bf600d84b08f9108ede79af5c81c91/9345bc3c-2463-4952-b270-a373959fc10a.jpg"
+    },
+    {
+      "productId": 116,
+      "mediaCategory": "rep",
+      "path": "/storage/products/rep/8d34f3e344bf600d84b08f9108ede79af5c81c91/9345bc3c-2463-4952-b270-a373959fc10a.jpg"
+    },
+    {
+      "productId": 116,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8d34f3e344bf600d84b08f9108ede79af5c81c91/d5798952-929a-4679-b74c-a777db88d00a.jpg"
+    },
+    {
+      "productId": 116,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8d34f3e344bf600d84b08f9108ede79af5c81c91/d5798952-929a-4679-b74c-a777db88d00a.jpg"
+    },
+    {
+      "productId": 116,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8d34f3e344bf600d84b08f9108ede79af5c81c91/d5798952-929a-4679-b74c-a777db88d00a.jpg"
+    },
+    {
+      "productId": 116,
+      "mediaCategory": "detail",
+      "path": "/storage/products/detail/8d34f3e344bf600d84b08f9108ede79af5c81c91/d5798952-929a-4679-b74c-a777db88d00a.jpg"
+    }
   ]
 }

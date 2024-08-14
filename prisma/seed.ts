@@ -1,5 +1,7 @@
 import { PrismaClient } from '@prisma/client';
-import { products, colors } from './sql/product.json';
+import { products, colors, images } from './sql/product.json';
+import axios from 'axios';
+import { productImageUpload } from '../src/services/imageService';
 
 const prisma = new PrismaClient();
 
@@ -108,11 +110,42 @@ async function productColorOptionInit() {
   });
 }
 
+async function productImagesInit() {
+  await prisma.productDetailImages.deleteMany({});
+  await prisma.productThumbnailImages.deleteMany({});
+
+  images.forEach(async (o) => {
+    try {
+      const response = await axios.get(
+        `https://media.lunatalk.co.kr${o.path}`,
+        {
+          responseType: 'arraybuffer',
+        }
+      );
+
+      const file = Buffer.from(response.data, 'binary');
+
+      console.log(response.data);
+
+      await productImageUpload(
+        o.productId,
+        o.mediaCategory === 'rep' ? 'thumbnail' : 'detail',
+        file
+      );
+      console.log('success', o.productId, o.path);
+    } catch (e) {
+      console.log(e);
+      console.log('fail', o.productId, o.path);
+    }
+  });
+}
+
 async function main() {
-  await categoryInit();
-  await productColorOptionsInit();
-  await productInit();
-  await productColorOptionInit();
+  // await categoryInit();
+  // await productColorOptionsInit();
+  // await productInit();
+  // await productColorOptionInit();
+  await productImagesInit();
 }
 
 main()

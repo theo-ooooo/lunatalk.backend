@@ -1,6 +1,5 @@
 import { FastifyInstance, FastifyReply, FastifyRequest } from 'fastify';
 import { existsByLoginId, setUser } from '../../handlers/userHandler';
-import { CreateUser } from '../../inerfaces/user';
 import { UnauthorizedError } from '../../tools/errors/unauthorizedError';
 import bcrypt from 'bcrypt';
 import { User } from '@prisma/client';
